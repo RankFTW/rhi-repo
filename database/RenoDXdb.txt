@@ -219,7 +219,6 @@ Super Mario 3D World | Done | Souperman9 | https://souperman9.github.io/renodx/r
 Splinter Cell: Blacklist | Done | Musa | https://github.com/mqhaji/renodx/releases/download/snapshot/renodx-scblacklist.addon32;https://www.nexusmods.com/splintercellblacklist/mods/46 | no discussion | no comments
 S.T.A.L.K.E.R. 2: Heart of Chornobyl | Done | Ritsu/marat569 | https://github.com/marat569/renodx/releases/download/snapshot/renodx-ue-extended.addon64 | no discussion | UE-Extended mod. Set gamma/contrast/brightness ingame settings to 50%!
 Steelrising | WIP | Voosh | https://notvoosh.github.io/renodx/renodx-steelrising.addon64 | no discussion | Currently broken
-Steel Seed | Done | TheEdmaster87 | https://github.com/TheEdmaster87/Steel-Seed-RenoDX-HDR/releases/download/v1.0.4/renodx-steelseed.addon64 | no discussion | no comments
 Steep | Done | Voosh | https://www.nexusmods.com/assassinscreedsyndicate/mods/157 | no discussion | no comments
 Starfield | Done | ShortFuse | https://clshortfuse.github.io/renodx/renodx-starfield.addon64 | no discussion | no comments
 STAR WARS Jedi: Survivor™ | Done | Musa | https://clshortfuse.github.io/renodx/renodx-jedisurvivor.addon64 | no discussion | no comments
@@ -252,7 +251,7 @@ Tomb Raider (2013) - Definitive Edition | WIP | ShortFuse | https://clshortfuse.
 Total War: Three Kingdoms | Done | Forge | https://sgtforgery.github.io/renodx/renodx-tw-3kingdoms.addon64 | no discussion | no comments
 Total War: Warhammer 3 | Done | Pmnox | https://github.com/pmnoxx/renodx/releases/download/snapshot/renodx-_univ.addon64 | no discussion | no comments
 Trackmania | WIP | OopyDoopy (Jon) | https://oopydoopy.github.io/renodx/renodx-trackmania.addon64 | no discussion | Mod has great HDR, but breaks some customization menus.
-Trine 2: Complete Story | Done | MorshuTheTrader (Chris) | https://github.com/chrisboyer2/renodx/releases/download/v2.0/renodx-trine2.addon64 | no discussion | no comments
+Trine 2: Complete Story | WIP | MorshuTheTrader (Chris) | https://github.com/chrisboyer2/renodx/releases/download/v2.0/renodx-trine2.addon64 | no discussion | no comments
 Tunic | Done | ShortFuse | https://clshortfuse.github.io/renodx/renodx-tunic.addon64;https://www.nexusmods.com/tunic/mods/8 | no discussion | no comments
 UNCHARTED™: Legacy of Thieves Collection | Done | Musa | https://github.com/mqhaji/renodx/releases/download/snapshot/renodx-unchartedlotc.addon64;https://www.nexusmods.com/unchartedlegacyofthievescollection/mods/107 | no discussion | no comments
 Valheim | Done | OopyDoopy (Jon) | https://oopydoopy.github.io/renodx/renodx-valheim.addon64;https://www.nexusmods.com/valheim/mods/2958 | no discussion | no comments
