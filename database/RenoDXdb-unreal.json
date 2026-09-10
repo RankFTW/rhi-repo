@@ -1,1 +1,478 @@
-test
+[
+  {
+    "Name": "A Way Out",
+    "Status": "WIP",
+    "Method": "upgrade",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Abiotic Factor",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "ABZÛ",
+    "Status": "WIP",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Assetto Corsa Rally",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Astroneer",
+    "Status": "WIP",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": "Grading and flickering issues"
+  },
+  {
+    "Name": "Black Myth: Wukong",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": "Only add `r.HDR.EnableHDROutput=1`."
+  },
+  {
+    "Name": "Bodycam",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Borderlands 4",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Chained Together",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": "Slider do not change in real-time"
+  },
+  {
+    "Name": "Choo-Choo Charles",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Chromatic Conundrum",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Conan Exiles Enhanced",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Crab Champions",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Days Gone",
+    "Status": "WIP",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Dead as Disco",
+    "Status": "WIP",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Deep Rock Galactic",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Deep Rock Galactic: Rogue Core",
+    "Status": "WIP",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Escape the Backrooms",
+    "Status": "WIP",
+    "Method": "upgrade",
+    "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size`",
+    "Comments": "Limited brightness."
+  },
+  {
+    "Name": "Everwind",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Far Far West",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "FlyKnight",
+    "Status": "WIP",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Frostpunk 2",
+    "Status": "WIP",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": "UI slider controls paper white"
+  },
+  {
+    "Name": "Ghostrunner",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Ghostrunner 2",
+    "Status": "WIP",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Ghostwire Tokyo",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Goat Simulator 3",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Gothic 1 Remake",
+    "Status": "WIP",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": "Tonemapping issues"
+  },
+  {
+    "Name": "Grand Theft Auto: The Trilogy – The Definitive Edition (III, Vice City, San Andreas)",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Grounded 2",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Hellblade II: Senua’s Saga",
+    "Status": "WIP",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": "Slider do not change in real-time"
+  },
+  {
+    "Name": "Hydroneer",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "inZOI",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "It Takes Two",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Jusant",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "LEGO® Batman™: Legacy of the Dark Knight",
+    "Status": "WIP",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": "Slider do not change in real-time"
+  },
+  {
+    "Name": "Lies of P",
+    "Status": "WIP",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": "Slider do not change in real-time"
+  },
+  {
+    "Name": "Little Nightmares",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Little Nightmares Enhanced",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Little Nightmares II",
+    "Status": "WIP",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": "Grading issues"
+  },
+  {
+    "Name": "Little Nightmares II Enhanced",
+    "Status": "WIP",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": "Grading issues"
+  },
+  {
+    "Name": "Lords of the Fallen",
+    "Status": "WIP",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": "Tonemapping issues"
+  },
+  {
+    "Name": "Mafia: The Old Country",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "MECCHA CHAMELEON",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Mortal Shell II",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Motor Town: Behind The Wheel",
+    "Status": "WIP",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": "Slider do not change in real-time, UI slider controls paper white"
+  },
+  {
+    "Name": "Nobody Wants to Die",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Pacific Drive",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size`",
+    "Comments": "Limited brightness."
+  },
+  {
+    "Name": "Palworld",
+    "Status": "WIP",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Persona 3 Reload",
+    "Status": "WIP",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": "UI issues"
+  },
+  {
+    "Name": "Quarantine Zone: The Last Check",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Ready or Not",
+    "Status": "WIP",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "RV There Yet",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Satisfactory",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Scorn",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Sifu",
+    "Status": "WIP",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": "Limited brightness"
+  },
+  {
+    "Name": "Solarpunk",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "STAR WARS Zero Company™",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Stray",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Subnautica 2",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "The Alters",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "The Blood of Dawnwalker",
+    "Status": "WIP",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "The Enjenir",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "The First Berserker: Khazan",
+    "Status": "WIP",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Tokyo Xtreme Racer",
+    "Status": "WIP",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Until Dawn",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "VHOLUME",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "What Remains of Edith Finch",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": null
+  }
+]
