@@ -406,6 +406,13 @@
     "Comments": null
   },
   {
+    "Name": "SPRAWL",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size`",
+    "Comments": null
+  },
+  {
     "Name": "STAR WARS Zero Company™",
     "Status": "Done",
     "Method": "native",
