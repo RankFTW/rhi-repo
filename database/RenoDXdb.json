@@ -751,18 +751,18 @@
     "name": "DOOM: The Dark Ages",
     "status": "Done",
     "author": "Musa",
-    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-doom-tda.addon64",
+    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-dai.addon64",
     "snapshotUrl32": null,
     "nexusUrl": null,
     "discordUrl": null,
     "discussionUrl": "https://github.com/clshortfuse/renodx/discussions/525",
-    "notes": null
+    "notes": "test"
   },
   {
     "name": "Dragon Age: Inquisition",
     "status": "Done",
     "author": "Voosh",
-    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-dai.addon64",
+    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-doom-tda.addon64",
     "snapshotUrl32": null,
     "nexusUrl": "https://www.nexusmods.com/dragonageinquisition/mods/4286",
     "discordUrl": null,
