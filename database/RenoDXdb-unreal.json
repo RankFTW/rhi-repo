@@ -399,6 +399,13 @@
     "Comments": null
   },
   {
+    "Name": "Song of Nunu: A League of Legends Story",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size`",
+    "Comments": "test"
+  },
+  {
     "Name": "STAR WARS Zero Company™",
     "Status": "Done",
     "Method": "native",
