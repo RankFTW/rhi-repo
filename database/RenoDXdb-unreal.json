@@ -436,9 +436,9 @@
   {
     "Name": "The Alters",
     "Status": "Done",
-    "Method": null,
+    "Method": "ini",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Stubborn accepting the ini tweaks. If you have issues, try installing the U+ mod"
   },
   {
     "Name": "The Blood of Dawnwalker",
