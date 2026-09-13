@@ -39,7 +39,7 @@
     "Status": "Done",
     "Method": "ini",
     "Upgrades": null,
-    "Comments": "Only add `r.HDR.EnableHDROutput=1`."
+    "Comments": "Only add `r.HDR.EnableHDROutput=1` test."
   },
   {
     "Name": "Bodycam",
