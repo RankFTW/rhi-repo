@@ -191,7 +191,7 @@
   {
     "Name": "Grand Theft Auto: The Trilogy – The Definitive Edition (III, Vice City, San Andreas)",
     "Status": "Done",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
     "Comments": null
   },
@@ -204,10 +204,10 @@
   },
   {
     "Name": "Hellblade II: Senua’s Saga",
-    "Status": "WIP",
+    "Status": "Done",
     "Method": "native",
     "Upgrades": null,
-    "Comments": "Slider do not change in real-time"
+    "Comments": null
   },
   {
     "Name": "Hydroneer",
@@ -226,7 +226,7 @@
   {
     "Name": "It Takes Two",
     "Status": "Done",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
     "Comments": null
   },
@@ -239,17 +239,17 @@
   },
   {
     "Name": "LEGO® Batman™: Legacy of the Dark Knight",
-    "Status": "WIP",
+    "Status": "Done",
     "Method": "native",
     "Upgrades": null,
-    "Comments": "Slider do not change in real-time"
+    "Comments": null
   },
   {
     "Name": "Lies of P",
-    "Status": "WIP",
+    "Status": "Done",
     "Method": "native",
     "Upgrades": null,
-    "Comments": "Slider do not change in real-time"
+    "Comments": null
   },
   {
     "Name": "Little Nightmares",
@@ -310,9 +310,9 @@
   {
     "Name": "Motor Town: Behind The Wheel",
     "Status": "WIP",
-    "Method": null,
+    "Method": "ini",
     "Upgrades": null,
-    "Comments": "Slider do not change in real-time, UI slider controls paper white"
+    "Comments": "Missing UI shader"
   },
   {
     "Name": "Nobody Wants to Die",
@@ -351,7 +351,7 @@
   },
   {
     "Name": "Ready or Not",
-    "Status": "WIP",
+    "Status": "Done",
     "Method": "ini",
     "Upgrades": null,
     "Comments": null
@@ -484,9 +484,9 @@
   },
   {
     "Name": "What Remains of Edith Finch",
-    "Status": "Done",
-    "Method": null,
+    "Status": "WIP",
+    "Method": "upgrade",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "needs DPI override"
   }
 ]
