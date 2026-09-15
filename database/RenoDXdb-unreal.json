@@ -9,7 +9,7 @@
   {
     "Name": "Abiotic Factor",
     "Status": "Done",
-    "Method": null,
+    "Method": "ini",
     "Upgrades": null,
     "Comments": null
   },
