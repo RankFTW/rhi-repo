@@ -4,7 +4,7 @@
     "Status": "WIP",
     "Method": "upgrade",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Abiotic Factor",
@@ -16,9 +16,9 @@
   {
     "Name": "ABZÛ",
     "Status": "WIP",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Assetto Corsa Rally",
@@ -30,9 +30,9 @@
   {
     "Name": "Astroneer",
     "Status": "WIP",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
-    "Comments": "Grading and flickering issues"
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Black Myth: Wukong",
@@ -60,7 +60,7 @@
     "Status": "Done",
     "Method": "ini",
     "Upgrades": null,
-    "Comments": "Slider do not change in real-time"
+    "Comments": null
   },
   {
     "Name": "Choo-Choo Charles",
@@ -71,10 +71,10 @@
   },
   {
     "Name": "Chromatic Conundrum",
-    "Status": "Done",
-    "Method": null,
+    "Status": "WIP",
+    "Method": "ini",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Conan Exiles Enhanced",
@@ -91,18 +91,11 @@
     "Comments": null
   },
   {
-    "Name": "Days Gone",
-    "Status": "WIP",
-    "Method": "native",
-    "Upgrades": null,
-    "Comments": null
-  },
-  {
     "Name": "Dead as Disco",
     "Status": "WIP",
-    "Method": "native",
+    "Method": "ini",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Deep Rock Galactic",
@@ -123,7 +116,7 @@
     "Status": "WIP",
     "Method": "upgrade",
     "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size`",
-    "Comments": "Limited brightness."
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Everwind",
@@ -142,30 +135,30 @@
   {
     "Name": "FlyKnight",
     "Status": "WIP",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Frostpunk 2",
     "Status": "WIP",
-    "Method": null,
+    "Method": "ini",
     "Upgrades": null,
-    "Comments": "UI slider controls paper white"
+    "Comments": "Needs Testing ans UI Shader Dump"
   },
   {
     "Name": "Ghostrunner",
     "Status": "Done",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
     "Comments": null
   },
   {
     "Name": "Ghostrunner 2",
     "Status": "WIP",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Ghostwire Tokyo",
@@ -177,7 +170,7 @@
   {
     "Name": "Goat Simulator 3",
     "Status": "Done",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
     "Comments": null
   },
@@ -186,7 +179,7 @@
     "Status": "WIP",
     "Method": "native",
     "Upgrades": null,
-    "Comments": "Tonemapping issues"
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Grand Theft Auto: The Trilogy – The Definitive Edition (III, Vice City, San Andreas)",
@@ -212,7 +205,7 @@
   {
     "Name": "Hydroneer",
     "Status": "Done",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
     "Comments": null
   },
@@ -254,37 +247,37 @@
   {
     "Name": "Little Nightmares",
     "Status": "Done",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
     "Comments": null
   },
   {
     "Name": "Little Nightmares Enhanced",
     "Status": "Done",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
     "Comments": null
   },
   {
     "Name": "Little Nightmares II",
-    "Status": "WIP",
-    "Method": null,
+    "Status": "Done",
+    "Method": "upgrade",
     "Upgrades": null,
-    "Comments": "Grading issues"
+    "Comments": null
   },
   {
     "Name": "Little Nightmares II Enhanced",
-    "Status": "WIP",
-    "Method": null,
+    "Status": "Done",
+    "Method": "upgrade",
     "Upgrades": null,
-    "Comments": "Grading issues"
+    "Comments": null
   },
   {
     "Name": "Lords of the Fallen",
-    "Status": "WIP",
+    "Status": "Done",
     "Method": "native",
     "Upgrades": null,
-    "Comments": "Tonemapping issues"
+    "Comments": null
   },
   {
     "Name": "Mafia: The Old Country",
@@ -295,10 +288,10 @@
   },
   {
     "Name": "MECCHA CHAMELEON",
-    "Status": "Done",
-    "Method": null,
+    "Status": "WIP",
+    "Method": "ini",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Mortal Shell II",
@@ -312,7 +305,7 @@
     "Status": "WIP",
     "Method": "ini",
     "Upgrades": null,
-    "Comments": "Missing UI shader"
+    "Comments": "Needs Testing and UI Shader Dump"
   },
   {
     "Name": "Nobody Wants to Die",
@@ -323,24 +316,24 @@
   },
   {
     "Name": "Pacific Drive",
-    "Status": "Done",
+    "Status": "WIP",
     "Method": "upgrade",
     "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size`",
-    "Comments": "Limited brightness."
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Palworld",
     "Status": "WIP",
-    "Method": null,
+    "Method": "ini",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Persona 3 Reload",
-    "Status": "WIP",
-    "Method": null,
+    "Status": "Done",
+    "Method": "upgrade",
     "Upgrades": null,
-    "Comments": "UI issues"
+    "Comments": null
   },
   {
     "Name": "Quarantine Zone: The Last Check",
@@ -380,16 +373,16 @@
   {
     "Name": "Scorn",
     "Status": "Done",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
     "Comments": null
   },
   {
     "Name": "Sifu",
     "Status": "WIP",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
-    "Comments": "Limited brightness"
+    "Comments": "Doesn't get very bright"
   },
   {
     "Name": "Solarpunk",
@@ -422,7 +415,7 @@
   {
     "Name": "Stray",
     "Status": "Done",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
     "Comments": null
   },
@@ -442,31 +435,31 @@
   },
   {
     "Name": "The Blood of Dawnwalker",
-    "Status": "WIP",
+    "Status": "Done",
     "Method": "ini",
     "Upgrades": null,
     "Comments": null
   },
   {
     "Name": "The Enjenir",
-    "Status": "Done",
-    "Method": null,
+    "Status": "WIP",
+    "Method": "ini",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Needs Testing"
   },
   {
     "Name": "The First Berserker: Khazan",
     "Status": "WIP",
-    "Method": null,
+    "Method": "upgrade",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Tokyo Xtreme Racer",
     "Status": "WIP",
     "Method": "native",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Needs Testing"
   },
   {
     "Name": "Until Dawn",
@@ -477,10 +470,10 @@
   },
   {
     "Name": "VHOLUME",
-    "Status": "Done",
-    "Method": null,
+    "Status": "WIP",
+    "Method": "ini",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Needs Testing"
   },
   {
     "Name": "What Remains of Edith Finch",
