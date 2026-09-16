@@ -106,10 +106,10 @@
   },
   {
     "Name": "Deep Rock Galactic: Rogue Core",
-    "Status": "Done",
+    "Status": "WIP",
     "Method": "ini",
     "Upgrades": null,
-    "Comments": "Native is broken"
+    "Comments": "Native is broken. ini Needs Testing."
   },
   {
     "Name": "Escape the Backrooms",
