@@ -288,10 +288,10 @@
   },
   {
     "Name": "MECCHA CHAMELEON",
-    "Status": "WIP",
+    "Status": "Done",
     "Method": "ini",
     "Upgrades": null,
-    "Comments": "Needs Testing"
+    "Comments": null
   },
   {
     "Name": "Mortal Shell II",
@@ -442,10 +442,10 @@
   },
   {
     "Name": "The Enjenir",
-    "Status": "WIP",
+    "Status": "Done",
     "Method": "ini",
     "Upgrades": null,
-    "Comments": "Needs Testing"
+    "Comments": null
   },
   {
     "Name": "The First Berserker: Khazan",
