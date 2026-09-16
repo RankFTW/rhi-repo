@@ -143,11 +143,22 @@
     "notes": null
   },
   {
-    "name": "Assassin’s Creed® II (dgVoodoo)",
+    "name": "Assassin’s Creed® Brotherhood",
     "status": "Done",
     "author": "Hartapfel",
     "snapshotUrl": null,
-    "snapshotUrl32": null,
+    "snapshotUrl32": "https://github.com/hartapfel/renodx/releases/download/asscreedeziotrilogy-snapshot/renodx-asscreedeziotrilogy.addon32",
+    "nexusUrl": "https://www.nexusmods.com/assassinscreedbrotherhood/mods/26",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Assassin’s Creed® II",
+    "status": "Done",
+    "author": "Hartapfel",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://github.com/hartapfel/renodx/releases/download/asscreedeziotrilogy-snapshot/renodx-asscreedeziotrilogy.addon32",
     "nexusUrl": "https://www.nexusmods.com/assassinscreedii/mods/250",
     "discordUrl": null,
     "discussionUrl": null,
@@ -215,6 +226,17 @@
     "snapshotUrl": "https://github.com/mqhaji/renodx/releases/download/snapshot/renodx-asscreedorigins-odyssey.addon64",
     "snapshotUrl32": null,
     "nexusUrl": "https://www.nexusmods.com/assassinscreedorigins/mods/266",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Assassin’s Creed® Revelations",
+    "status": "Done",
+    "author": "Hartapfel",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://github.com/hartapfel/renodx/releases/download/asscreedeziotrilogy-snapshot/renodx-asscreedeziotrilogy.addon32",
+    "nexusUrl": "https://www.nexusmods.com/assassinscreedrevelations/mods/190",
     "discordUrl": null,
     "discussionUrl": null,
     "notes": null
