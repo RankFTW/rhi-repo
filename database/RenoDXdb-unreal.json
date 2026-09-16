@@ -379,10 +379,10 @@
   },
   {
     "Name": "Sifu",
-    "Status": "WIP",
+    "Status": "Done",
     "Method": "upgrade",
     "Upgrades": null,
-    "Comments": "Doesn't get very bright"
+    "Comments": null
   },
   {
     "Name": "Solarpunk",
