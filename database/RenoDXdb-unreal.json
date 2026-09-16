@@ -382,7 +382,7 @@
     "Status": "Done",
     "Method": "upgrade",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "Test"
   },
   {
     "Name": "Solarpunk",
