@@ -105,6 +105,13 @@
     "Comments": null
   },
   {
+    "Name": "Cthulu: The Cosmin Abyss",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Dead as Disco",
     "Status": "WIP",
     "Method": "ini",
@@ -126,11 +133,25 @@
     "Comments": "Needs Testing"
   },
   {
+    "Name": "Directive 8020",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Escape the Backrooms",
     "Status": "WIP",
     "Method": "upgrade",
     "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size`",
     "Comments": "Needs Testing"
+  },
+  {
+    "Name": "Eternal Strands",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": "`R10G10B10A2_UNORM` `Output Size`",
+    "Comments": null
   },
   {
     "Name": "Everwind",
