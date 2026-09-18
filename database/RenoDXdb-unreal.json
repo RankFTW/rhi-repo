@@ -35,6 +35,13 @@
     "Comments": "Needs Testing"
   },
   {
+    "Name": "Avowed",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Black Myth: Wukong",
     "Status": "Done",
     "Method": "ini",
