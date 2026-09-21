@@ -2717,6 +2717,17 @@
     "notes": "Breaks the lighting in some parts of the game, like the Chasm Monastery"
   },
   {
+    "name": "Total War: ATTILA",
+    "status": "Done",
+    "author": "Arshiatn",
+    "snapshotUrl": null,
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/totalwarattila/mods/158",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Total War: Three Kingdoms",
     "status": "Done",
     "author": "Forge",
