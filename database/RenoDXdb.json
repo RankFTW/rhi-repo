@@ -2519,6 +2519,17 @@
     "notes": null
   },
   {
+    "name": "Testing New RHI Feature",
+    "status": "Done",
+    "author": "The RHI Man",
+    "snapshotUrl": null,
+    "snapshotUrl32": null,
+    "nexusUrl": "www.nexus.com/rhi/modline",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "The Callisto Protocol",
     "status": "Done",
     "author": "Musa",
