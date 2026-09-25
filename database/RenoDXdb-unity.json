@@ -50,7 +50,7 @@
   {
     "Name": "Agatha Christie - Death on the Nile",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -80,13 +80,13 @@
   {
     "Name": "All We Need",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Altheia: The Wrath of Aferi",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -98,7 +98,7 @@
   {
     "Name": "Amerzone - The Explorer's Legacy (2025)",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -140,13 +140,13 @@
   {
     "Name": "Aragami 2",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Arkham Horror: Mother's Embrace",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Use_Swapchain_Proxy` `1`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Use_Swapchain_Proxy` `1`",
     "Comments": null
   },
   {
@@ -182,7 +182,7 @@
   {
     "Name": "Atomic Owl",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -320,7 +320,7 @@
   {
     "Name": "Bendy: Secrets of the Machine",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -368,13 +368,13 @@
   {
     "Name": "BlazBlue Entropy Effect",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Bloody Hell",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Both compatibility offsets +1"
   },
   {
@@ -386,7 +386,7 @@
   {
     "Name": "Bō: Path of the Teal Lotus",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -398,7 +398,7 @@
   {
     "Name": "Bounty Star",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -410,7 +410,7 @@
   {
     "Name": "Breachway",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -422,7 +422,7 @@
   {
     "Name": "Bubsy 4D",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -434,7 +434,7 @@
   {
     "Name": "Cakey's Twisted Bakery",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -446,7 +446,7 @@
   {
     "Name": "Children of the Sun",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -458,7 +458,7 @@
   {
     "Name": "Circuit Superstars",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -506,7 +506,7 @@
   {
     "Name": "Coridden",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -548,13 +548,13 @@
   {
     "Name": "DAVE THE DIVER",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "DeadCore Redux Demo",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Tonemap/color grading not in real time"
   },
   {
@@ -578,7 +578,7 @@
   {
     "Name": "Deep Rock Survivor",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -596,7 +596,7 @@
   {
     "Name": "Dino Topia",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -620,7 +620,7 @@
   {
     "Name": "DRACOMATON",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -722,13 +722,13 @@
   {
     "Name": "Eiyuden Chronicle: Hundred Heroes",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Eiyuden Chronicle: Rising",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -740,7 +740,7 @@
   {
     "Name": "El Paso, Elsewhere",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -752,13 +752,13 @@
   {
     "Name": "Encased",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Enigma of Fear",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -770,7 +770,7 @@
   {
     "Name": "Ereban - Shadow Legacy",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -812,7 +812,7 @@
   {
     "Name": "Fabledom",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "(If game's Anti-aliasing is enabled, Compatibility Blit Copy: Scaling only)"
   },
   {
@@ -866,13 +866,13 @@
   {
     "Name": "Five Nights at Freddy's: Into the Pit",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Flashback 2",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -890,7 +890,7 @@
   {
     "Name": "Forgotten 23",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -920,7 +920,7 @@
   {
     "Name": "Gatekeeper",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -938,7 +938,7 @@
   {
     "Name": "Giggleland: Terry’s Vegetable Patch",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -986,13 +986,13 @@
   {
     "Name": "Halve Demo",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Hardspace: Shipbreaker",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "Name": "Have a Nice Death",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "32-bit"
   },
   {
@@ -1046,13 +1046,13 @@
   {
     "Name": "Hollow Cocoon",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Game's Rendering Quality setting should be 100%"
   },
   {
     "Name": "Hordelord",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1064,7 +1064,7 @@
   {
     "Name": "House Flipper 2",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Tonemap/color grading not in real time (change game Saturation setting to refresh)"
   },
   {
@@ -1094,7 +1094,7 @@
   {
     "Name": "HUNTER×HUNTER NEN×IMPACT",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1124,7 +1124,7 @@
   {
     "Name": "In Sound Mind",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "Name": "Jotunnslayer: Hordes of Hel",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Tonemap/color grading not in real time"
   },
   {
@@ -1202,13 +1202,13 @@
   {
     "Name": "Killer Frequency",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "KILL KNIGHT",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1274,19 +1274,19 @@
   {
     "Name": "Little Kitty, Big City",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Little Noah: Scion of Paradise",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Little Witch in the Woods",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1304,7 +1304,7 @@
   {
     "Name": "Lost In Random",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1334,13 +1334,13 @@
   {
     "Name": "Lumines Arise",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "by Output Ratio"
   },
   {
     "Name": "Lysfanga: The Time Shift Warrior",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Compatibilty Scaling offset +1"
   },
   {
@@ -1352,13 +1352,13 @@
   {
     "Name": "Mai: Child of Ages",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Maid of Sker",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "Name": "Metal: Hellsinger",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1460,7 +1460,7 @@
   {
     "Name": "My Friendly Neighborhood",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1484,7 +1484,7 @@
   {
     "Name": "NEOVERSE",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1514,13 +1514,13 @@
   {
     "Name": "NODE: The Last Favor of the Antarii",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "NOTTOLOT",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Both compatibilty offsets +1"
   },
   {
@@ -1568,13 +1568,13 @@
   {
     "Name": "Operation Wolf Returns: First Mission",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "ORDER 13",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Tonemap/color grading not in real time (change Brightness in game settings to reload)"
   },
   {
@@ -1622,7 +1622,7 @@
   {
     "Name": "OXENFREE II: Lost Signals",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1766,7 +1766,7 @@
   {
     "Name": "REKA",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1784,7 +1784,7 @@
   {
     "Name": "REVEIL",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1802,7 +1802,7 @@
   {
     "Name": "Road 96: Mile 0",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1856,19 +1856,19 @@
   {
     "Name": "Sektori",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "32-bit"
   },
   {
     "Name": "Shadow Labyrinth",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Shadow of the Road (demo)",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1880,7 +1880,7 @@
   {
     "Name": "Shadows of Doubt",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1892,25 +1892,25 @@
   {
     "Name": "Shape of Dreams",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Both compatibility offsets +1"
   },
   {
     "Name": "Shift 87",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Skate Story",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Disable in-game HDR"
   },
   {
     "Name": "Sker Ritual",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Open game graphic settings and hit Apply to refresh Tonemap/Color grading"
   },
   {
@@ -1958,13 +1958,13 @@
   {
     "Name": "Soulstone Survivors",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Spacebase Startopia",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1988,7 +1988,7 @@
   {
     "Name": "Spiritfall",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Use_Swapchain_Proxy` `1`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Use_Swapchain_Proxy` `1`",
     "Comments": null
   },
   {
@@ -2066,7 +2066,7 @@
   {
     "Name": "SUPER CRAZY RHYTHM CASTLE",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -2090,25 +2090,25 @@
   {
     "Name": "SWORN",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Syberia - Remastered",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Syberia - The World Before",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Tainted Grail: Conquest",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -2138,7 +2138,7 @@
   {
     "Name": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -2168,13 +2168,13 @@
   {
     "Name": "The Karters 2: Turbo Charged",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "The Knightling",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -2216,7 +2216,7 @@
   {
     "Name": "The Rogue Prince of Persia",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -2228,7 +2228,7 @@
   {
     "Name": "The Upturned",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Compatibility Scaling offset +1"
   },
   {
@@ -2240,13 +2240,13 @@
   {
     "Name": "Tin Can",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "Tinykin",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -2276,7 +2276,7 @@
   {
     "Name": "东方异域见闻 ~ Touhou Dystopian",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -2342,7 +2342,7 @@
   {
     "Name": "UNDYING",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "(>= Output_Ratio) if using FSR1"
   },
   {
@@ -2360,13 +2360,13 @@
   {
     "Name": "Viewfinder",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "Enable Post-processing in game settings"
   },
   {
     "Name": "Void Crew",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "DLSS clamps colors to bt709"
   },
   {
@@ -2426,19 +2426,19 @@
   {
     "Name": "Wasteland 3",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Use_Swapchain_Proxy` `1`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Use_Swapchain_Proxy` `1`",
     "Comments": "Compatibility Scaling offset +1"
   },
   {
     "Name": "Wavetale",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
     "Name": "We Were Here Expeditions: The FriendShip",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -2474,7 +2474,7 @@
   {
     "Name": "WitchSpring R - The Story of Pieberry",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -2492,7 +2492,7 @@
   {
     "Name": "Yooka-Replaylee",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   }
 ]
