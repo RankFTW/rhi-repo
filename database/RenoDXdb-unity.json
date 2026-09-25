@@ -38,7 +38,7 @@
   {
     "Name": "Aeterna Noctis",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `2`",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Output Ratio`",
     "Comments": null
   },
   {
@@ -236,7 +236,7 @@
   {
     "Name": "Batbarian: Testament of the Primordials",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `3` `Use_Swapchain_Proxy` `1`",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size` `Use_Swapchain_Proxy` `1`",
     "Comments": null
   },
   {
@@ -278,7 +278,7 @@
   {
     "Name": "Beholder",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `3` `Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0`",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size` `Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0`",
     "Comments": "32-bit"
   },
   {
@@ -518,7 +518,7 @@
   {
     "Name": "Creature Kitchen",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `3`",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size`",
     "Comments": null
   },
   {
@@ -962,7 +962,7 @@
   {
     "Name": "Great God Grove",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `2`",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Ratio`",
     "Comments": null
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "Name": "Kaze and the Wild Masks",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `3`",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size`",
     "Comments": null
   },
   {
@@ -1448,7 +1448,7 @@
   {
     "Name": "Mouthwashing",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `2` `ForceBorderless` `1`",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Output Ratio` `ForceBorderless` `1`",
     "Comments": "Both compatibilty offsets +1"
   },
   {
@@ -1778,7 +1778,7 @@
   {
     "Name": "R.E.P.O.",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `3`",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size`",
     "Comments": null
   },
   {
