@@ -583,17 +583,6 @@
     "notes": null
   },
   {
-    "name": "Control Ultimate Edition",
-    "status": "WIP",
-    "author": "speedlemur",
-    "snapshotUrl": "https://github.com/speedlemur/renodx/releases/download/snapshot/renodx-control-rr.addon64",
-    "snapshotUrl32": null,
-    "nexusUrl": null,
-    "discordUrl": null,
-    "discussionUrl": null,
-    "notes": null
-  },
-  {
     "name": "Crimson Desert",
     "status": "WIP",
     "author": "Forge & Fyren & Jon & Shortfuse",
