@@ -494,7 +494,7 @@
   {
     "Name": "Copycat",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS`",
+    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size`",
     "Comments": null
   },
   {
@@ -668,14 +668,14 @@
   {
     "Name": "Dungeons 2",
     "Status": "WIP",
-    "Upgrades": null,
-    "Comments": "Scaling AND Tonemap offset = 1. Main Menu will be black, but everything is fine once loaded in game"
+    "Upgrades": "`Scaling_Offset` `1` `Tonemap_Offset` `1`",
+    "Comments": "Main Menu will be black, but everything is fine once loaded in game"
   },
   {
     "Name": "Dungeons 3",
     "Status": "WIP",
-    "Upgrades": null,
-    "Comments": "Swampchain proxy on"
+    "Upgrades": "`Use_Swapchain_Proxy` `1`",
+    "Comments": null
   },
   {
     "Name": "Dungeons 4",
@@ -698,8 +698,8 @@
   {
     "Name": "Dystopika",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS`",
-    "Comments": "& R11G11B10_FLOAT"
+    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size` `Upgrade_R11G11B10_FLOAT` `Output Size`",
+    "Comments": null
   },
   {
     "Name": "Eastern Exorcist",
@@ -722,7 +722,7 @@
   {
     "Name": "Egging On",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS`",
+    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size`",
     "Comments": null
   },
   {
@@ -758,8 +758,8 @@
   {
     "Name": "End Transmission?",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS`",
-    "Comments": "& R11G11B10_FLOAT"
+    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size` `Upgrade_R11G11B10_FLOAT` `Output Size`",
+    "Comments": null
   },
   {
     "Name": "Enigma of Fear",
@@ -1010,8 +1010,8 @@
   {
     "Name": "Heart of the Machine",
     "Status": "Done",
-    "Upgrades": null,
-    "Comments": "Compatibility Scaling Offset +1"
+    "Upgrades": "`Scaling_Offset` `1`",
+    "Comments": null
   },
   {
     "Name": "Hell Clock",
@@ -1334,14 +1334,14 @@
   {
     "Name": "Lumines Arise",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
-    "Comments": "by Output Ratio"
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Ratio`",
+    "Comments": null
   },
   {
     "Name": "Lysfanga: The Time Shift Warrior",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
-    "Comments": "Compatibilty Scaling offset +1"
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Scaling_Offset` `1`",
+    "Comments": null
   },
   {
     "Name": "Mages of Mystralia",
@@ -1478,8 +1478,8 @@
   {
     "Name": "Neon Abyss",
     "Status": "WIP",
-    "Upgrades": "`Use_Swapchain_Proxy` `1`",
-    "Comments": "Upgrade Upgrade_R16G16B16A16_TYPELESS"
+    "Upgrades": "`Use_Swapchain_Proxy` `1` `Upgrade_R16G16B16A16_TYPELESS` `Output Size`",
+    "Comments": null
   },
   {
     "Name": "NEOVERSE",
@@ -1508,7 +1508,7 @@
   {
     "Name": "Nocturnal",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS`",
+    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size`",
     "Comments": null
   },
   {
@@ -1544,7 +1544,7 @@
   {
     "Name": "Oddworld: Soulstorm Enhanced Edition",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS`",
+    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size`",
     "Comments": "Tonemap/CG not in real time (restart checkpoint/level to reload)"
   },
   {
@@ -1610,8 +1610,8 @@
   {
     "Name": "Overcooked! All You Can Eat",
     "Status": "Done",
-    "Upgrades": "`Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0`",
-    "Comments": "64-bit. , . R8G8B8A8_TYPELESS Upgrade to Output ratio or Any Size"
+    "Upgrades": "`Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0` `Upgrade_R8G8B8A8_TYPELESS` `Any Size`",
+    "Comments": "64-bit."
   },
   {
     "Name": "Oxenfree",
@@ -1634,7 +1634,7 @@
   {
     "Name": "Party Club",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS`",
+    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size` `Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": "& R11G11B10_FLOAT"
   },
   {
@@ -1737,7 +1737,7 @@
     "Name": "Prince of Persia: The Lost Crown",
     "Status": "Done",
     "Upgrades": null,
-    "Comments": "Color grading unaffected (other than Peak and UI Brightness). Use the Luma Framework mod below"
+    "Comments": "Color grading unaffected (other than Peak and UI Brightness). Use Luma."
   },
   {
     "Name": "Pummel Party",
@@ -1946,8 +1946,8 @@
   {
     "Name": "Songs Of Silence",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS`",
-    "Comments": "& R11G11B10_FLOAT. Compatibility Scaling offset +2"
+    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size` `Upgrade_R11G11B10_FLOAT` `Output Size`",
+    "Comments": "Compatibility Scaling offset +2"
   },
   {
     "Name": "Soulstone Survivors",
@@ -1994,7 +1994,7 @@
   {
     "Name": "Spooky's Jump Scare Mansion: HD Renovation",
     "Status": "Done",
-    "Upgrades": "`Swapchain_Encoding` `0`",
+    "Upgrades": "`Swapchain_Encoding` `1`",
     "Comments": "Both Compatibility Offsets +1"
   },
   {
@@ -2120,19 +2120,19 @@
   {
     "Name": "Tales of Berseria Remastered",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0`",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS`",
     "Comments": "64-bit. , FMV anime cutscenes also affected"
   },
   {
     "Name": "Tales of the Shire: A The Lord of The Rings™ Game",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0`",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS`",
     "Comments": "64-bit"
   },
   {
     "Name": "Tales of Xillia Remastered",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0`",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS`",
     "Comments": "64-bit"
   },
   {
@@ -2228,8 +2228,8 @@
   {
     "Name": "The Upturned",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
-    "Comments": "Compatibility Scaling offset +1"
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Scaling_Offset` `1`",
+    "Comments": null
   },
   {
     "Name": "Timelie",
@@ -2276,8 +2276,8 @@
   {
     "Name": "Towa and the Guardians of the Sacred Tree",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS`",
-    "Comments": "& R11G11B10_FLOAT"
+    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size` `Upgrade_R11G11B10_FLOAT` `Output Size`",
+    "Comments": null
   },
   {
     "Name": "Towaga: Among Shadows",
@@ -2420,8 +2420,8 @@
   {
     "Name": "Wasteland 3",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Use_Swapchain_Proxy` `1`",
-    "Comments": "Compatibility Scaling offset +1"
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Use_Swapchain_Proxy` `1` `Scaling_Offset` `1`",
+    "Comments": null
   },
   {
     "Name": "Wavetale",
@@ -2456,7 +2456,7 @@
   {
     "Name": "Windblown",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS`",
+    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size`",
     "Comments": "& R11G11B10_FLOAT if using FSR1"
   },
   {
