@@ -1671,7 +1671,7 @@
     "Name": "Pillars of Eternity",
     "Status": "WIP",
     "Upgrades": "`Use_Swapchain_Proxy` `1` `Scaling_Offset` `1` `Tonemap_Offset` `1`",
-    "Comments": "123test123"
+    "Comments": null
   },
   {
     "Name": "Pillars of Eternity II: Deadfire",
