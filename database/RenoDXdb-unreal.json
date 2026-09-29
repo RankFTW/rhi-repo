@@ -189,6 +189,13 @@
     "Comments": "Needs Testing ans UI Shader Dump"
   },
   {
+    "Name": "Garfield - Escape from Monday",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Ghostrunner",
     "Status": "Done",
     "Method": "upgrade",
