@@ -573,9 +573,9 @@
   },
   {
     "name": "CONTROL Resonant",
-    "status": "WIP",
+    "status": "Done",
     "author": "Musa",
-    "snapshotUrl": null,
+    "snapshotUrl": "https://github.com/mqhaji/renodx/releases/download/snapshot/renodx-controlresonant.addon64",
     "snapshotUrl32": null,
     "nexusUrl": null,
     "discordUrl": "https://discord.com/channels/1408098019194310818/1550381804484038696",
