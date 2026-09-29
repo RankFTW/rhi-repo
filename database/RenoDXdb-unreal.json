@@ -37,7 +37,7 @@
   {
     "Name": "Avowed",
     "Status": "Done",
-    "Method": "ini",
+    "Method": "native",
     "Upgrades": null,
     "Comments": null
   },
