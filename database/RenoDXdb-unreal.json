@@ -133,6 +133,13 @@
     "Comments": "Needs Testing"
   },
   {
+    "Name": "Destroy All Humans",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size`",
+    "Comments": null
+  },
+  {
     "Name": "Directive 8020",
     "Status": "Done",
     "Method": "ini",
@@ -231,6 +238,13 @@
     "Comments": null
   },
   {
+    "Name": "Halo - Campaign Evolved",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Hellblade II: Senua’s Saga",
     "Status": "Done",
     "Method": "native",
@@ -277,6 +291,13 @@
     "Status": "Done",
     "Method": "native",
     "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Like a Dragon: Ishin!",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": "`R8G8B8A8_TYPELESS` `Output Size` `R10G10B10A2_UNORM` `Output Size`",
     "Comments": null
   },
   {
@@ -455,6 +476,13 @@
     "Comments": null
   },
   {
+    "Name": "State Of Decay 2",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size` `R10G10B10A2_UNORM` `Output Size`",
+    "Comments": null
+  },
+  {
     "Name": "Stray",
     "Status": "Done",
     "Method": "upgrade",
@@ -502,6 +530,13 @@
     "Method": "native",
     "Upgrades": null,
     "Comments": "Needs Testing"
+  },
+  {
+    "Name": "Tormented Souls 2",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": "`R10G10B10A2_UNORM` `Output Size`",
+    "Comments": "Turn off in game HDR"
   },
   {
     "Name": "Until Dawn",
