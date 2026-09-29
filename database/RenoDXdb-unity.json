@@ -30,6 +30,12 @@
     "Comments": null
   },
   {
+    "Name": "Actraiser Renaissance",
+    "Status": "Done",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size` `Swapchain_Encoding` `2`",
+    "Comments": null
+  },
+  {
     "Name": "AER Memories of Old",
     "Status": "Done",
     "Upgrades": null,
@@ -420,6 +426,12 @@
     "Comments": null
   },
   {
+    "Name": "Bye Sweet Carole",
+    "Status": "Done",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
+    "Comments": null
+  },
+  {
     "Name": "Bō: Path of the Teal Lotus",
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
@@ -442,6 +454,12 @@
     "Status": "WIP",
     "Upgrades": "`Swapchain_Encoding` `0`",
     "Comments": "32-bit"
+  },
+  {
+    "Name": "ChainStaff",
+    "Status": "Done",
+    "Upgrades": "`Swapchain_Encoding` `2`",
+    "Comments": null
   },
   {
     "Name": "Children of Morta",
@@ -579,6 +597,12 @@
     "Name": "Deliver At All Costs",
     "Status": "WIP",
     "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Demon Tides",
+    "Status": "Done",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
   },
   {
@@ -1332,6 +1356,12 @@
     "Comments": null
   },
   {
+    "Name": "Lucius III",
+    "Status": "Done",
+    "Upgrades": "`Use_Swapchain_Proxy` `1`",
+    "Comments": null
+  },
+  {
     "Name": "Lumines Arise",
     "Status": "Done",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Ratio`",
@@ -1485,6 +1515,12 @@
     "Name": "NEOVERSE",
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
+    "Comments": null
+  },
+  {
+    "Name": "New Game",
+    "Status": "WIP",
+    "Upgrades": null,
     "Comments": null
   },
   {
@@ -1766,6 +1802,12 @@
   {
     "Name": "ReCore: Definitive Edition",
     "Status": "WIP",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Reentry - A Space Flight Simulator",
+    "Status": "Done",
     "Upgrades": null,
     "Comments": null
   },
@@ -2229,6 +2271,12 @@
     "Name": "The Upturned",
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Scaling_Offset` `1`",
+    "Comments": null
+  },
+  {
+    "Name": "The Walking Dead - Streets of Survival",
+    "Status": "Done",
+    "Upgrades": null,
     "Comments": null
   },
   {
