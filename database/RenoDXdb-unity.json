@@ -1934,8 +1934,8 @@
   {
     "Name": "Shape of Dreams",
     "Status": "Done",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
-    "Comments": "Both compatibility offsets +1"
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Scaling_Offset` `1` `Tonemap_Offset` `1`",
+    "Comments": null
   },
   {
     "Name": "Shift 87",
@@ -1988,8 +1988,8 @@
   {
     "Name": "Songs Of Silence",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size` `Upgrade_R11G11B10_FLOAT` `Output Size`",
-    "Comments": "Compatibility Scaling offset +2"
+    "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size` `Upgrade_R11G11B10_FLOAT` `Output Size` `Scaling_Offset` `2`",
+    "Comments": null
   },
   {
     "Name": "Soulstone Survivors",
@@ -2036,8 +2036,8 @@
   {
     "Name": "Spooky's Jump Scare Mansion: HD Renovation",
     "Status": "Done",
-    "Upgrades": "`Swapchain_Encoding` `1`",
-    "Comments": "Both Compatibility Offsets +1"
+    "Upgrades": "`Swapchain_Encoding` `1` `Tonemap_Offset` `1` `Scaling_Offset` `1`",
+    "Comments": null
   },
   {
     "Name": "STAR OCEAN THE SECOND STORY R",
