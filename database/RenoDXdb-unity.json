@@ -1524,12 +1524,6 @@
     "Comments": null
   },
   {
-    "Name": "New Game",
-    "Status": "WIP",
-    "Upgrades": null,
-    "Comments": null
-  },
-  {
     "Name": "New Super Lucky's Tale",
     "Status": "WIP",
     "Upgrades": "`Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0`",
