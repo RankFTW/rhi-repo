@@ -2409,6 +2409,17 @@
     "notes": null
   },
   {
+    "name": "Steel Seed",
+    "status": "Done",
+    "author": "TheEdmaster87",
+    "snapshotUrl": "https://github.com/TheEdmaster87/Steel-Seed-RenoDX-HDR/releases/download/v1.0.4/renodx-steelseed.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Steelrising",
     "status": "WIP",
     "author": "Voosh",
