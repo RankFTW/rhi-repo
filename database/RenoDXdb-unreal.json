@@ -532,6 +532,13 @@
     "Comments": null
   },
   {
+    "Name": "The Enjenir: The Engineering Physics Building Simulator",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "The First Berserker: Khazan",
     "Status": "WIP",
     "Method": "upgrade",
