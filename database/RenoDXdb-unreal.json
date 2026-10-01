@@ -490,6 +490,13 @@
     "Comments": null
   },
   {
+    "Name": "Stellar Blade",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Stray",
     "Status": "Done",
     "Method": "upgrade",
