@@ -128,8 +128,8 @@
   {
     "Name": "Anodyne 2: Return to Dust",
     "Status": "Done",
-    "Upgrades": "`Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0`",
-    "Comments": "32-bit. , . Both compatibility offsets +1"
+    "Upgrades": "`Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0` `Tonemap_Offset` `1` `Scaling_Offset` `1`",
+    "Comments": "32-bit."
   },
   {
     "Name": "Another Crab's Treasure",
@@ -380,8 +380,8 @@
   {
     "Name": "Bloody Hell",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
-    "Comments": "Both compatibility offsets +1"
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Tonemap_Offset` `1` `Scaling_Offset` `1`",
+    "Comments": null
   },
   {
     "Name": "Blue Prince",
@@ -728,8 +728,8 @@
   {
     "Name": "Eastern Exorcist",
     "Status": "WIP",
-    "Upgrades": null,
-    "Comments": "Both compatibility offsets +1"
+    "Upgrades": "`Tonemap_Offset` `1` `Scaling_Offset` `1`",
+    "Comments": null
   },
   {
     "Name": "Eastshade",
@@ -842,8 +842,8 @@
   {
     "Name": "Fallen Aces",
     "Status": "WIP",
-    "Upgrades": null,
-    "Comments": "Both compatibilty offsets +1"
+    "Upgrades": "`Tonemap_Offset` `1` `Scaling_Offset` `1`",
+    "Comments": null
   },
   {
     "Name": "Fantasy General II",
@@ -1106,8 +1106,8 @@
   {
     "Name": "Human Fall Flat",
     "Status": "WIP",
-    "Upgrades": "`Use_Swapchain_Proxy` `1`",
-    "Comments": "32-bit. . Both compatibilty offsets +1"
+    "Upgrades": "`Use_Swapchain_Proxy` `1` `Tonemap_Offset` `1` `Scaling_Offset` `1`",
+    "Comments": "32-bit."
   },
   {
     "Name": "HUMANKIND",
@@ -1484,8 +1484,8 @@
   {
     "Name": "Mouthwashing",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Output Ratio` `ForceBorderless` `1`",
-    "Comments": "Both compatibilty offsets +1"
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Output Ratio` `ForceBorderless` `1` `Tonemap_Offset` `1` `Scaling_Offset` `1`",
+    "Comments": null
   },
   {
     "Name": "My Friend Pedro",
@@ -1556,8 +1556,8 @@
   {
     "Name": "NOTTOLOT",
     "Status": "WIP",
-    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
-    "Comments": "Both compatibilty offsets +1"
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Tonemap_Offset` `1` `Scaling_Offset` `1`",
+    "Comments": null
   },
   {
     "Name": "Nova Lands",
@@ -1671,7 +1671,7 @@
     "Name": "Party Club",
     "Status": "WIP",
     "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size` `Upgrade_R11G11B10_FLOAT` `Output Size`",
-    "Comments": "& R11G11B10_FLOAT"
+    "Comments": null
   },
   {
     "Name": "Pathfinder: Kingmaker",
