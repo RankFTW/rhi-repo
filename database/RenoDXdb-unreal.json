@@ -147,6 +147,13 @@
     "Comments": null
   },
   {
+    "Name": "End of Abyss",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": "`B10G10R10A2_UNORM` `Output Size`",
+    "Comments": null
+  },
+  {
     "Name": "Escape the Backrooms",
     "Status": "WIP",
     "Method": "upgrade",
@@ -350,6 +357,13 @@
     "Comments": null
   },
   {
+    "Name": "Marsupilami 2: Salsa Palombia",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": "Engine.ini"
+  },
+  {
     "Name": "MECCHA CHAMELEON",
     "Status": "Done",
     "Method": "ini",
@@ -369,6 +383,13 @@
     "Method": "ini",
     "Upgrades": null,
     "Comments": "Needs Testing and UI Shader Dump"
+  },
+  {
+    "Name": "Nikoderiko: The Magical World",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": "Engine.ini"
   },
   {
     "Name": "Nobody Wants to Die",
@@ -509,6 +530,13 @@
     "Method": "ini",
     "Upgrades": null,
     "Comments": null
+  },
+  {
+    "Name": "System Shock Remake",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": "Engine.ini"
   },
   {
     "Name": "The Alters",
