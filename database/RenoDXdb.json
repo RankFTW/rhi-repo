@@ -2178,6 +2178,17 @@
     "notes": "UE-Extended mod. Set gamma/contrast/brightness ingame settings to 50%!"
   },
   {
+    "name": "Saints Row",
+    "status": "Done",
+    "author": "DristoforColumb",
+    "snapshotUrl": "https://github.com/jhi721/renodx/releases/download/snapshot/renodx-saintsrow2022.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Sea of Stars",
     "status": "Done",
     "author": "ShortFuse",
