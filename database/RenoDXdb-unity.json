@@ -1128,6 +1128,12 @@
     "Comments": null
   },
   {
+    "Name": "I Know a Guy: Shady Life Simulator",
+    "Status": "WIP",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
+    "Comments": null
+  },
+  {
     "Name": "ICEY",
     "Status": "WIP",
     "Upgrades": "`Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0`",
