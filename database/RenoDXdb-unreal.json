@@ -217,6 +217,13 @@
     "Comments": null
   },
   {
+    "Name": "Gears of War: E-Day",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": "ReShade with addon support requires EAC being disabled."
+  },
+  {
     "Name": "Ghostrunner",
     "Status": "Done",
     "Method": "upgrade",
