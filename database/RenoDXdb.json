@@ -118,7 +118,7 @@
     "nexusUrl": null,
     "discordUrl": null,
     "discussionUrl": "https://github.com/clshortfuse/renodx/discussions/490",
-    "notes": null
+    "notes": "The latest RenoDX mod for Arknights: Endfield is only available through Discord and is not yet on GitHub. The main build has also switched from DX11 to Vulkan - make sure you are using the correct version for your setup."
   },
   {
     "name": "Armored Core VI: Fires of Rubicon",
