@@ -132,6 +132,28 @@
     "notes": null
   },
   {
+    "name": "Assassin's Creed® Liberation Remastered",
+    "status": "Done",
+    "author": "Lego Liam Neeson",
+    "snapshotUrl": "https://github.com/legoliamneeson/renodx/releases/download/nightly-20260503/renodx-AssassinsCreedLiberation.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Assassin's Creed® Rogue",
+    "status": "Done",
+    "author": "Lego Liam Neeson",
+    "snapshotUrl": "https://github.com/legoliamneeson/renodx/releases/download/nightly-20260503/renodx-AssassinsCreedRogue.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Assassin's Creed™: Director's Cut Edition (DX10)",
     "status": "Done",
     "author": "Musa",
@@ -489,6 +511,72 @@
     "author": "Voosh",
     "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-bulletstormfullclip.addon64",
     "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Call of Duty®: Black Ops",
+    "status": "Done",
+    "author": "Lego Liam Neeson",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://github.com/legoliamneeson/renodx/releases/download/nightly-20260503/renodx-CODBLOPS.addon32",
+    "nexusUrl": "https://www.nexusmods.com/callofdutyblackops/mods/23",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": "DXVK proxy required for increased stability! Please check the Nexus page for instructions"
+  },
+  {
+    "name": "Call of Duty®: Black Ops Cold War",
+    "status": "Done",
+    "author": "Lego Liam Neeson",
+    "snapshotUrl": "https://github.com/legoliamneeson/renodx/releases/download/nightly-20260503/renodx-CODColdWar.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": "Avoiding multiplayer is recommended in case of a potential ban!"
+  },
+  {
+    "name": "Call of Duty®: Black Ops II",
+    "status": "Done",
+    "author": "Lego Liam Neeson",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://github.com/legoliamneeson/renodx/releases/download/nightly-20260503/renodx-CODBOPS2.addon32",
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": "Avoiding multiplayer is recommended in case of a potential ban!"
+  },
+  {
+    "name": "Call of Duty®: Ghosts",
+    "status": "Done",
+    "author": "Lego Liam Neeson",
+    "snapshotUrl": "https://github.com/legoliamneeson/renodx/releases/download/nightly-20260503/renodx-CODGHOSTS.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": "Avoiding multiplayer is recommended in case of a potential ban!"
+  },
+  {
+    "name": "Call of Duty®: Modern Warfare® 3 (2011)",
+    "status": "Done",
+    "author": "Lego Liam Neeson",
+    "snapshotUrl": "https://github.com/legoliamneeson/renodx/releases/download/nightly-20260503/renodx-CODMW3.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/callofdutymodernwarfare3/mods/38",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": "64 bit, Nexus includes a stutter fix for the game. Please check the Nexus page for instructions"
+  },
+  {
+    "name": "Call of Duty®: World at War",
+    "status": "Done",
+    "author": "Lego Liam Neeson",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://github.com/legoliamneeson/renodx/releases/download/nightly-20260503/renodx-CODWAW.addon32",
     "nexusUrl": null,
     "discordUrl": null,
     "discussionUrl": null,
@@ -1076,6 +1164,17 @@
     "discordUrl": null,
     "discussionUrl": null,
     "notes": "Arguably not an HDR fix. Vanilla HDR is competent and received a separate grade from SDR."
+  },
+  {
+    "name": "Gears of War 4",
+    "status": "Done",
+    "author": "Lego Liam Neeson",
+    "snapshotUrl": null,
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/gearsofwar4/mods/1",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
   },
   {
     "name": "Ghost of Tsushima DIRECTOR'S CUT",
@@ -2583,6 +2682,17 @@
     "discordUrl": null,
     "discussionUrl": "https://github.com/clshortfuse/renodx/discussions/197",
     "notes": null
+  },
+  {
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "status": "Done",
+    "author": "Lego Liam Neeson",
+    "snapshotUrl": "https://github.com/legoliamneeson/renodx/releases/download/nightly-20260503/renodx-skyrimse.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/skyrimspecialedition/mods/179261",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": "Check the Nexus page for installation instructions"
   },
   {
     "name": "The Evil Within 2",
