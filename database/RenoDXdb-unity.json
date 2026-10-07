@@ -258,6 +258,12 @@
     "Comments": null
   },
   {
+    "Name": "Battletoads",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Becalm",
     "Status": "Done",
     "Upgrades": null,
@@ -423,6 +429,12 @@
     "Name": "Bubsy 4D",
     "Status": "Done",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
+    "Comments": null
+  },
+  {
+    "Name": "Butcher's Creek",
+    "Status": "Done",
+    "Upgrades": "`Swapchain_Encoding` `1`",
     "Comments": null
   },
   {
