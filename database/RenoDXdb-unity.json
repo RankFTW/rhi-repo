@@ -434,7 +434,7 @@
   {
     "Name": "Butcher's Creek",
     "Status": "Done",
-    "Upgrades": "`Swapchain_Encoding` `1`",
+    "Upgrades": "`Use_Swapchain_Proxy` `1`",
     "Comments": null
   },
   {
