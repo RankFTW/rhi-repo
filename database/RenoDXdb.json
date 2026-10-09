@@ -341,7 +341,29 @@
     "notes": null
   },
   {
+    "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "status": "Done",
+    "author": "Marat",
+    "snapshotUrl": "https://marat569.github.io/renodx/renodx-ryza2.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Atelier Ryza 3",
+    "status": "Done",
+    "author": "Marat",
+    "snapshotUrl": "https://marat569.github.io/renodx/renodx-ryza3.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
     "status": "Done",
     "author": "Marat",
     "snapshotUrl": "https://marat569.github.io/renodx/renodx-ryza3.addon64",
@@ -363,7 +385,40 @@
     "notes": null
   },
   {
+    "name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+    "status": "Done",
+    "author": "Akuru",
+    "snapshotUrl": "https://akuru-q.github.io/renodx/renodx-ryza.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Atelier Ryza: Ever Darkness & the Secret Hideout DX",
+    "status": "Done",
+    "author": "Akuru",
+    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-atelierryzadx.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Atelier Sophie 1 DX",
+    "status": "Done",
+    "author": "Marat",
+    "snapshotUrl": "https://marat569.github.io/renodx/renodx-sophie1.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Atelier Sophie: The Alchemist of the Mysterious Book DX",
     "status": "Done",
     "author": "Marat",
     "snapshotUrl": "https://marat569.github.io/renodx/renodx-sophie1.addon64",
@@ -386,6 +441,17 @@
   },
   {
     "name": "Atlas Fallen (DX12)",
+    "status": "Done",
+    "author": "Akuru",
+    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-atlasfallen.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": "Install ReShade in 'Atlas Fallen\\bin'. FSR2 causes crashes."
+  },
+  {
+    "name": "Atlas Fallen: Reign Of Sand (DX12)",
     "status": "Done",
     "author": "Akuru",
     "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-atlasfallen.addon64",
@@ -440,6 +506,17 @@
     "notes": null
   },
   {
+    "name": "Batman: Arkham Asylum GOTY Edition",
+    "status": "Done",
+    "author": "Musa",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://github.com/mqhaji/renodx/releases/download/snapshot/renodx-batmanaa.addon32",
+    "nexusUrl": "https://www.nexusmods.com/batmanarkhamasylum/mods/283",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Batman: Arkham Knight",
     "status": "Done",
     "author": "ShortFuse",
@@ -466,6 +543,17 @@
     "status": "Done",
     "author": "Musa",
     "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-beyondblue.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Black Desert",
+    "status": "Done",
+    "author": "Forge",
+    "snapshotUrl": "https://sgtforgery.github.io/renodx/renodx-black-desert-online.addon64",
     "snapshotUrl32": null,
     "nexusUrl": null,
     "discordUrl": null,
@@ -605,6 +693,17 @@
     "notes": null
   },
   {
+    "name": "Castlevania: Lords of Shadow - Ultimate Edition",
+    "status": "Done",
+    "author": "OopyDoopy and Voosh",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://oopydoopy.github.io/renodx/renodx-castlevanialos.addon32",
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Child of Light",
     "status": "Done",
     "author": "Steve161803",
@@ -617,6 +716,17 @@
   },
   {
     "name": "Citizen Sleeper 2",
+    "status": "Done",
+    "author": "Ritsu",
+    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-citizensleeper2.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Citizen Sleeper 2: Starward Vector",
     "status": "Done",
     "author": "Ritsu",
     "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-citizensleeper2.addon64",
@@ -803,6 +913,17 @@
     "notes": null
   },
   {
+    "name": "DEATH STRANDING 2: ON THE BEACH",
+    "status": "Done",
+    "author": "Musa",
+    "snapshotUrl": "https://github.com/mqhaji/renodx/releases/download/snapshot/renodx-deathstranding2.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/deathstranding2onthebeach/mods/8",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Death Stranding : Director's Cut",
     "status": "WIP",
     "author": "Musa",
@@ -820,6 +941,17 @@
     "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-dxmd.addon64",
     "snapshotUrl32": null,
     "nexusUrl": "https://www.nexusmods.com/deusexmankinddivided/mods/28",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Devil May Cry 5",
+    "status": "Done",
+    "author": "Musa",
+    "snapshotUrl": "https://github.com/mqhaji/renodx/releases/download/snapshot/renodx-dmc5.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/devilmaycry5/mods/4044",
     "discordUrl": null,
     "discussionUrl": null,
     "notes": null
@@ -925,6 +1057,17 @@
   },
   {
     "name": "Dragon Quest XI (Original & DE)",
+    "status": "Done",
+    "author": "My Name",
+    "snapshotUrl": "https://danaforever.github.io/renodx/renodx-dragonquest-ue.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "DRAGON QUEST® XI: Echoes of an Elusive Age™ (Original & DE)",
     "status": "Done",
     "author": "My Name",
     "snapshotUrl": "https://danaforever.github.io/renodx/renodx-dragonquest-ue.addon64",
@@ -1122,7 +1265,40 @@
     "notes": null
   },
   {
+    "name": "FINAL FANTASY VII REBIRTH",
+    "status": "Done",
+    "author": "Ritsu, & ShortFuse",
+    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-ff7rebirth.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "status": "Done",
+    "author": "ShortFuse",
+    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-ff7remake.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Final Fantasy X",
+    "status": "Done",
+    "author": "ShortFuse",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://clshortfuse.github.io/renodx/renodx-ffx.addon32",
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "FINAL FANTASY X/X-2 HD Remaster",
     "status": "Done",
     "author": "ShortFuse",
     "snapshotUrl": null,
@@ -1144,7 +1320,29 @@
     "notes": null
   },
   {
+    "name": "FINAL FANTASY XIV Online",
+    "status": "Done",
+    "author": "Ersh & Pumbo & Maple",
+    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-ffxiv.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/finalfantasy14/mods/2326",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Final Fantasy XV",
+    "status": "Done",
+    "author": "My Name",
+    "snapshotUrl": "https://danaforever.github.io/renodx/renodx-ffxv.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "FINAL FANTASY XV WINDOWS EDITION",
     "status": "Done",
     "author": "My Name",
     "snapshotUrl": "https://danaforever.github.io/renodx/renodx-ffxv.addon64",
@@ -1244,6 +1442,17 @@
   },
   {
     "name": "God of War Ragnarok",
+    "status": "Done",
+    "author": "Musa",
+    "snapshotUrl": "https://github.com/mqhaji/renodx/releases/download/snapshot/renodx-gowragnarok.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/godofwarragnarok/mods/144",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "God of War Ragnarök",
     "status": "Done",
     "author": "Musa",
     "snapshotUrl": "https://github.com/mqhaji/renodx/releases/download/snapshot/renodx-gowragnarok.addon64",
@@ -1617,6 +1826,17 @@
     "notes": null
   },
   {
+    "name": "Lost Planet: Extreme Condition - Colonies Edition",
+    "status": "Done",
+    "author": "ShortFuse",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://clshortfuse.github.io/renodx/renodx-lostplanet.addon32",
+    "nexusUrl": "https://www.nexusmods.com/lostplanetextremeconditioncoloniesedition/mods/2",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Luigi's Mansion 3",
     "status": "Done",
     "author": "Souperman9",
@@ -1804,6 +2024,17 @@
     "notes": null
   },
   {
+    "name": "Middle-earth™: Shadow of War™",
+    "status": "Done",
+    "author": "Musa",
+    "snapshotUrl": "https://github.com/mqhaji/renodx/releases/download/snapshot/renodx-shadowofwar.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/middleearthshadowofwar/mods/130?tab=description",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Mirror's Edge",
     "status": "Done",
     "author": "XgarhontX",
@@ -1936,6 +2167,17 @@
     "notes": "Requires Lyall's NinjaGaidenMCFix."
   },
   {
+    "name": "NINJA GAIDEN Σ",
+    "status": "Done",
+    "author": "Akuru",
+    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-ngsigma.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": "Requires Lyall's NinjaGaidenMCFix."
+  },
+  {
     "name": "Nioh 2",
     "status": "WIP",
     "author": "Akuru",
@@ -2006,6 +2248,17 @@
     "status": "Done",
     "author": "OopyDoopy (Jon)",
     "snapshotUrl": "https://oopydoopy.github.io/renodx/renodx-partyanimals.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Path of Exile 2 (DX11)",
+    "status": "Done",
+    "author": "Forge",
+    "snapshotUrl": "https://sgtforgery.github.io/renodx/renodx-poe2.addon64",
     "snapshotUrl32": null,
     "nexusUrl": null,
     "discordUrl": null,
@@ -2299,6 +2552,17 @@
     "notes": null
   },
   {
+    "name": "Sea of Stars: Sunset Edition",
+    "status": "Done",
+    "author": "ShortFuse",
+    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-seaofstars.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Sekiro: Shadows Die Twice",
     "status": "Done",
     "author": "Ritsu",
@@ -2344,6 +2608,17 @@
   },
   {
     "name": "Shin Megami Tensei V",
+    "status": "Done",
+    "author": "Marat",
+    "snapshotUrl": "https://marat569.github.io/renodx/renodx-smt5.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Shin Megami Tensei V: Vengeance",
     "status": "Done",
     "author": "Marat",
     "snapshotUrl": "https://marat569.github.io/renodx/renodx-smt5.addon64",
@@ -2739,6 +3014,50 @@
     "notes": null
   },
   {
+    "name": "The Legend of Heroes: Trails beyond the Horizon",
+    "status": "Done",
+    "author": "My Name",
+    "snapshotUrl": "https://danaforever.github.io/renodx/renodx-falcomengine.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "The Legend of Heroes: Trails from Zero/to Azure",
+    "status": "Done",
+    "author": "My Name",
+    "snapshotUrl": "https://danaforever.github.io/renodx/renodx-zerokiseki.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "The Legend of Heroes: Trails of Cold Steel (III-IV-V)",
+    "status": "Done",
+    "author": "My Name",
+    "snapshotUrl": "https://danaforever.github.io/renodx/renodx-senkiseki.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": "https://discord.com/channels/1408098019194310818/1410855640112566375/threads/1416613436623818863/1416613436623818863",
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "The Legend of Heroes: Trails through Daybreak (I & II)",
+    "status": "Done",
+    "author": "My Name & Marat",
+    "snapshotUrl": "https://danaforever.github.io/renodx/renodx-falcomengine.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "The Legend of Zelda: Breath of the Wild",
     "status": "Done",
     "author": "Souperman9",
@@ -2816,6 +3135,28 @@
     "notes": null
   },
   {
+    "name": "The Witcher 3: Wild Hunt (Next Gen)",
+    "status": "Done",
+    "author": "OopyDoopy (Jon)",
+    "snapshotUrl": "https://oopydoopy.github.io/renodx/renodx-thewitcher3.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/witcher3/mods/10900",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "The Witcher 3: Wild Hunt — Remastered",
+    "status": "Done",
+    "author": "OopyDoopy (Jon)",
+    "snapshotUrl": "https://oopydoopy.github.io/renodx/renodx-thewitcher3remastered.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/witcher3/mods/10900",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "The Witness",
     "status": "WIP",
     "author": "ShortFuse",
@@ -2844,6 +3185,17 @@
     "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-terraria-tml.addon64",
     "snapshotUrl32": null,
     "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Tom Clancy's Splinter Cell Blacklist",
+    "status": "Done",
+    "author": "Musa",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://github.com/mqhaji/renodx/releases/download/snapshot/renodx-scblacklist.addon32",
+    "nexusUrl": "https://www.nexusmods.com/splintercellblacklist/mods/46",
     "discordUrl": null,
     "discussionUrl": null,
     "notes": null
@@ -2894,6 +3246,17 @@
   },
   {
     "name": "Total War: Warhammer 3",
+    "status": "Done",
+    "author": "Pmnox",
+    "snapshotUrl": "https://github.com/pmnoxx/renodx/releases/download/snapshot/renodx-_univ.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Total War: WARHAMMER III",
     "status": "Done",
     "author": "Pmnox",
     "snapshotUrl": "https://github.com/pmnoxx/renodx/releases/download/snapshot/renodx-_univ.addon64",
@@ -3048,6 +3411,17 @@
   },
   {
     "name": "Watch Dogs",
+    "status": "Done",
+    "author": "Voosh",
+    "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-watchdogs.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/watchdogs/mods/331",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Watch_Dogs",
     "status": "Done",
     "author": "Voosh",
     "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-watchdogs.addon64",
