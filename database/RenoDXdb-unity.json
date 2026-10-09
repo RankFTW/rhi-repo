@@ -432,6 +432,12 @@
     "Comments": null
   },
   {
+    "Name": "Burglin' Gnomes",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Butcher's Creek",
     "Status": "Done",
     "Upgrades": "`Use_Swapchain_Proxy` `1`",
@@ -858,6 +864,12 @@
     "Comments": null
   },
   {
+    "Name": "Exo Rally Championship",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Fabledom",
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
@@ -1059,6 +1071,12 @@
     "Name": "Heart of the Machine",
     "Status": "Done",
     "Upgrades": "`Scaling_Offset` `1`",
+    "Comments": null
+  },
+  {
+    "Name": "Heavenly Bodies",
+    "Status": "Done",
+    "Upgrades": null,
     "Comments": null
   },
   {
@@ -1308,6 +1326,12 @@
     "Comments": "Upgrade ??????????????"
   },
   {
+    "Name": "LEGO® Party!",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "LEGO® Voyagers",
     "Status": "Done",
     "Upgrades": "`Use_Swapchain_Proxy` `1`",
@@ -1352,6 +1376,12 @@
   {
     "Name": "Lonely Mountains: Downhill",
     "Status": "WIP",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Lorelei and the Laser Eyes",
+    "Status": "Done",
     "Upgrades": null,
     "Comments": null
   },
@@ -2256,6 +2286,12 @@
     "Comments": null
   },
   {
+    "Name": "The Farmer Was Replaced",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "The First Tree",
     "Status": "WIP",
     "Upgrades": "`Use_Swapchain_Proxy` `1`",
@@ -2300,6 +2336,12 @@
   {
     "Name": "The Looker",
     "Status": "WIP",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "The Message from Deep Space",
+    "Status": "Done",
     "Upgrades": null,
     "Comments": null
   },
