@@ -21,6 +21,13 @@
     "Comments": null
   },
   {
+    "Name": "Assetto Corsa Competizione",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": "Native HDR, need to load in-game for HDR to toggle."
+  },
+  {
     "Name": "Assetto Corsa Rally",
     "Status": "Done",
     "Method": "native",
@@ -278,6 +285,13 @@
     "Method": "ini",
     "Upgrades": null,
     "Comments": null
+  },
+  {
+    "Name": "Half Sword",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": "Engine.ini"
   },
   {
     "Name": "Halo - Campaign Evolved",
