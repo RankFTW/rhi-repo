@@ -140,6 +140,13 @@
     "Comments": "Needs Testing"
   },
   {
+    "Name": "Deliver Us The Moon",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size`",
+    "Comments": null
+  },
+  {
     "Name": "Destroy All Humans",
     "Status": "Done",
     "Method": "upgrade",
@@ -448,6 +455,13 @@
     "Comments": null
   },
   {
+    "Name": "Pih",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Quarantine Zone: The Last Check",
     "Status": "Done",
     "Method": "ini",
@@ -551,6 +565,13 @@
     "Method": "upgrade",
     "Upgrades": null,
     "Comments": "Disable in game HDR"
+  },
+  {
+    "Name": "Still Wakes the Deep",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": "Sliders do not change in real-time."
   },
   {
     "Name": "Stray",
