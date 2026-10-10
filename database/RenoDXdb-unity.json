@@ -126,6 +126,12 @@
     "Comments": null
   },
   {
+    "Name": "Aniimo",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Anodyne 2: Return to Dust",
     "Status": "Done",
     "Upgrades": "`Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0` `Tonemap_Offset` `1` `Scaling_Offset` `1`",
@@ -1614,6 +1620,12 @@
     "Comments": null
   },
   {
+    "Name": "No Rest For The Wicked",
+    "Status": "Done",
+    "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Ratio`",
+    "Comments": "(Output Ratio if using upscaling)"
+  },
+  {
     "Name": "Nocturnal",
     "Status": "WIP",
     "Upgrades": "`Upgrade_R10G10B10A2_TYPELESS` `Output Size`",
@@ -1686,6 +1698,12 @@
     "Comments": null
   },
   {
+    "Name": "OPUS: Prism Peak",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "ORDER 13",
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
@@ -1741,6 +1759,12 @@
   },
   {
     "Name": "Parkitect",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Party Animals",
     "Status": "Done",
     "Upgrades": null,
     "Comments": null
@@ -1896,9 +1920,21 @@
     "Comments": null
   },
   {
+    "Name": "Reignbreaker",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "REKA",
     "Status": "Done",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
+    "Comments": null
+  },
+  {
+    "Name": "REPLACED",
+    "Status": "Done",
+    "Upgrades": null,
     "Comments": null
   },
   {
@@ -2034,6 +2070,12 @@
     "Comments": null
   },
   {
+    "Name": "Silver Pines",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Skate Story",
     "Status": "Done",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
@@ -2052,6 +2094,12 @@
     "Comments": null
   },
   {
+    "Name": "Snake Force",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "SNØ: Ultimate Freeriding",
     "Status": "Done",
     "Upgrades": null,
@@ -2065,6 +2113,12 @@
   },
   {
     "Name": "Solasta: Crown of the Magister",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "Solateria",
     "Status": "Done",
     "Upgrades": null,
     "Comments": null
