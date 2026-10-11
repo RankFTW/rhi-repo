@@ -627,6 +627,17 @@
     "notes": "DXVK proxy required for increased stability! Please check the Nexus page for instructions"
   },
   {
+    "name": "Call of Duty®: Black Ops 4",
+    "status": "Done",
+    "author": "XgarhontX",
+    "snapshotUrl": null,
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/callofdutyblackops4/mods/1",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Call of Duty®: Black Ops Cold War",
     "status": "Done",
     "author": "Lego Liam Neeson",
