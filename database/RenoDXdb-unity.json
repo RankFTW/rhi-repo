@@ -30,6 +30,12 @@
     "Comments": null
   },
   {
+    "Name": "A Short Hike",
+    "Status": "Done",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size` `Swapchain_Encoding` `1`",
+    "Comments": "32-bit"
+  },
+  {
     "Name": "Actraiser Renaissance",
     "Status": "Done",
     "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size` `Swapchain_Encoding` `2`",
@@ -378,6 +384,12 @@
     "Comments": "Tonemap/color grading not in real time (Load Save Point to refresh)"
   },
   {
+    "Name": "Black Mesa",
+    "Status": "WIP",
+    "Upgrades": null,
+    "Comments": "32-bit"
+  },
+  {
     "Name": "Blackwind",
     "Status": "WIP",
     "Upgrades": null,
@@ -528,6 +540,12 @@
     "Comments": null
   },
   {
+    "Name": "Constance",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Content Warning",
     "Status": "WIP",
     "Upgrades": null,
@@ -556,6 +574,12 @@
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
+  },
+  {
+    "Name": "Counter Strike: Source",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "64-bit. Some of the maps are LDR, so you won't see many highlights on them"
   },
   {
     "Name": "Crab Game",
@@ -598,6 +622,12 @@
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
+  },
+  {
+    "Name": "Day of Defeat: Source",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "64-bit"
   },
   {
     "Name": "DEAD LETTER DEPT.",
@@ -744,6 +774,12 @@
     "Comments": "Change game's Brightness (Gamma) setting to refresh LUT"
   },
   {
+    "Name": "DUSK",
+    "Status": "Done",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size` `Swapchain_Encoding` `1`",
+    "Comments": null
+  },
+  {
     "Name": "Dustborn",
     "Status": "WIP",
     "Upgrades": null,
@@ -834,6 +870,18 @@
     "Comments": null
   },
   {
+    "Name": "Entropy: Zero",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "32-bit"
+  },
+  {
+    "Name": "Entropy: Zero 2",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "32-bit"
+  },
+  {
     "Name": "Epistory - Typing Chronicles",
     "Status": "WIP",
     "Upgrades": "`Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0`",
@@ -906,6 +954,12 @@
     "Comments": null
   },
   {
+    "Name": "Fear the Spotlight",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Feed the Deep",
     "Status": "WIP",
     "Upgrades": null,
@@ -972,6 +1026,12 @@
     "Comments": null
   },
   {
+    "Name": "Furi",
+    "Status": "Done",
+    "Upgrades": "`Swapchain_Encoding` `1`",
+    "Comments": null
+  },
+  {
     "Name": "Gamble With Your Friends",
     "Status": "WIP",
     "Upgrades": "`Use_Swapchain_Proxy` `1` `Force_Pipeline_Cloning` `1`",
@@ -982,6 +1042,12 @@
     "Status": "Done",
     "Upgrades": null,
     "Comments": null
+  },
+  {
+    "Name": "Garry's Mod",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "Both 32 AND 64-bit. Installation instructions Install x32 version as usual, install Reshade for gmod.exe to get 32-bit Reshade and move it to /bin. Then install Reshade again for gmod_win64.exe to get 64-bit Reshade and move it to /bin/win64 folder. Install DXVK proxy in both folders (dxgi_dxvk.dll and reshade.ini). A single dxvk.conf should be in the root folder, x32 bit installation in /bin and x64 installation in /bin/win64"
   },
   {
     "Name": "Gatekeeper",
@@ -1026,6 +1092,12 @@
     "Comments": "Upgrade ??????????????"
   },
   {
+    "Name": "Graveyard Keeper",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Great God Grove",
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Ratio`",
@@ -1048,6 +1120,12 @@
     "Status": "WIP",
     "Upgrades": null,
     "Comments": null
+  },
+  {
+    "Name": "Half Life 2",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "32-bit"
   },
   {
     "Name": "Halve Demo",
@@ -1206,6 +1284,12 @@
     "Comments": null
   },
   {
+    "Name": "Inscryption",
+    "Status": "Done",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size` `Swapchain_Encoding` `1`",
+    "Comments": null
+  },
+  {
     "Name": "Iron Lung",
     "Status": "WIP",
     "Upgrades": null,
@@ -1324,6 +1408,18 @@
     "Status": "Done",
     "Upgrades": null,
     "Comments": null
+  },
+  {
+    "Name": "Left 4 Dead",
+    "Status": "WIP",
+    "Upgrades": null,
+    "Comments": "32-bit. Visual glitches, LDR maps"
+  },
+  {
+    "Name": "Left 4 Dead 2",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "32-bit"
   },
   {
     "Name": "LEGO® Bricktales",
@@ -1620,6 +1716,12 @@
     "Comments": null
   },
   {
+    "Name": "No More Room in Hell",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "64-bit"
+  },
+  {
     "Name": "No Rest For The Wicked",
     "Status": "Done",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Ratio`",
@@ -1860,6 +1962,18 @@
     "Comments": null
   },
   {
+    "Name": "Portal",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "32-bit"
+  },
+  {
+    "Name": "Portal 2",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "32-bit"
+  },
+  {
     "Name": "POSTAL: Brain Damaged",
     "Status": "WIP",
     "Upgrades": null,
@@ -2094,6 +2208,12 @@
     "Comments": null
   },
   {
+    "Name": "Slime Rancher",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Snake Force",
     "Status": "Done",
     "Upgrades": null,
@@ -2292,6 +2412,12 @@
     "Comments": null
   },
   {
+    "Name": "Tabletop Simulator",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "Tainted Grail: Conquest",
     "Status": "Done",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
@@ -2319,6 +2445,12 @@
     "Name": "Tales of Xillia Remastered",
     "Status": "Done",
     "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS`",
+    "Comments": "64-bit"
+  },
+  {
+    "Name": "Team Fortress 2",
+    "Status": "Done",
+    "Upgrades": null,
     "Comments": "64-bit"
   },
   {
@@ -2418,6 +2550,30 @@
     "Comments": null
   },
   {
+    "Name": "The Room 4: Old Sins",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "The Room Three",
+    "Status": "Done",
+    "Upgrades": "`Swapchain_Encoding` `1`",
+    "Comments": "Some rooms appear to be clamped"
+  },
+  {
+    "Name": "The Room Two",
+    "Status": "WIP",
+    "Upgrades": "`Swapchain_Encoding` `1`",
+    "Comments": "Some rooms appear to be clamped"
+  },
+  {
+    "Name": "The Séance of Blake Manor",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
     "Name": "The Universim",
     "Status": "WIP",
     "Upgrades": null,
@@ -2434,6 +2590,12 @@
     "Status": "Done",
     "Upgrades": null,
     "Comments": null
+  },
+  {
+    "Name": "The Wandering Village",
+    "Status": "WIP",
+    "Upgrades": "`Use_Swapchain_Proxy` `1`",
+    "Comments": "Not very bright"
   },
   {
     "Name": "Timelie",
@@ -2692,6 +2854,12 @@
     "Status": "WIP",
     "Upgrades": "`Use_Swapchain_Proxy` `1`",
     "Comments": "Recommend raising highlights quite a bit as highlights are quite dim otherwise"
+  },
+  {
+    "Name": "WorldBox - God Simulator",
+    "Status": "Done",
+    "Upgrades": "`Swapchain_Encoding` `1`",
+    "Comments": null
   },
   {
     "Name": "XF Extreme Formula",
