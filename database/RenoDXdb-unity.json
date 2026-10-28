@@ -384,12 +384,6 @@
     "Comments": "Tonemap/color grading not in real time (Load Save Point to refresh)"
   },
   {
-    "Name": "Black Mesa",
-    "Status": "WIP",
-    "Upgrades": null,
-    "Comments": "32-bit"
-  },
-  {
     "Name": "Blackwind",
     "Status": "WIP",
     "Upgrades": null,
@@ -576,12 +570,6 @@
     "Comments": null
   },
   {
-    "Name": "Counter Strike: Source",
-    "Status": "Done",
-    "Upgrades": null,
-    "Comments": "64-bit. Some of the maps are LDR, so you won't see many highlights on them"
-  },
-  {
     "Name": "Crab Game",
     "Status": "Done",
     "Upgrades": null,
@@ -622,12 +610,6 @@
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
-  },
-  {
-    "Name": "Day of Defeat: Source",
-    "Status": "Done",
-    "Upgrades": null,
-    "Comments": "64-bit"
   },
   {
     "Name": "DEAD LETTER DEPT.",
