@@ -1,0 +1,80 @@
+[
+  {
+    "Name": "Black Mesa",
+    "Status": "WIP",
+    "Bitness": "32",
+    "Comments": null
+  },
+  {
+    "Name": "Counter Strike: Source",
+    "Status": "Done",
+    "Bitness": "64",
+    "Comments": "Some of the maps are LDR, so you won't see many highlights on them."
+  },
+  {
+    "Name": "Day of Defeat: Source",
+    "Status": "Done",
+    "Bitness": "64",
+    "Comments": null
+  },
+  {
+    "Name": "Entropy: Zero",
+    "Status": "Done",
+    "Bitness": "32",
+    "Comments": null
+  },
+  {
+    "Name": "Entropy: Zero 2",
+    "Status": "Done",
+    "Bitness": "32",
+    "Comments": null
+  },
+  {
+    "Name": "Garry's Mod",
+    "Status": "Done",
+    "Bitness": "both",
+    "Comments": "Installation instructions Install x32 version as usual, install Reshade for gmod.exe to get 32-bit Reshade and move it to /bin. \n Then install Reshade again for gmod_win64.exe to get 64-bit Reshade and move it to /bin/win64 folder. \n Install DXVK proxy in both folders (dxgi_dxvk.dll and reshade.ini). \n A single dxvk.conf should be in the root folder, x32 bit installation in /bin and x64 installation in /bin/win64."
+  },
+  {
+    "Name": "Half Life 2",
+    "Status": "Done",
+    "Bitness": "32",
+    "Comments": null
+  },
+  {
+    "Name": "Left 4 Dead",
+    "Status": "WIP",
+    "Bitness": "32",
+    "Comments": "Visual glitches, LDR maps."
+  },
+  {
+    "Name": "Left 4 Dead 2",
+    "Status": "Done",
+    "Bitness": "32",
+    "Comments": null
+  },
+  {
+    "Name": "No More Room in Hell",
+    "Status": "Done",
+    "Bitness": "64",
+    "Comments": null
+  },
+  {
+    "Name": "Portal",
+    "Status": "Done",
+    "Bitness": "32",
+    "Comments": null
+  },
+  {
+    "Name": "Portal 2",
+    "Status": "Done",
+    "Bitness": "32",
+    "Comments": null
+  },
+  {
+    "Name": "Team Fortress 2",
+    "Status": "Done",
+    "Bitness": "64",
+    "Comments": null
+  }
+]
