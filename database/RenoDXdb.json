@@ -2277,6 +2277,17 @@
     "notes": "Steam overlay must be disabled. Disable any other overlays if you run into issues."
   },
   {
+    "name": "Order of the Sinking Star",
+    "status": "Done",
+    "author": "Shortfuse",
+    "snapshotUrl": "https://github.com/clshortfuse/renodx/releases/download/snapshot/renodx-orderofthesinkingstar.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Ori and the Will of the Wisps",
     "status": "Done",
     "author": "Musa",
