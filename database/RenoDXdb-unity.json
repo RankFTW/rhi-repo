@@ -870,18 +870,6 @@
     "Comments": null
   },
   {
-    "Name": "Entropy: Zero",
-    "Status": "Done",
-    "Upgrades": null,
-    "Comments": "32-bit"
-  },
-  {
-    "Name": "Entropy: Zero 2",
-    "Status": "Done",
-    "Upgrades": null,
-    "Comments": "32-bit"
-  },
-  {
     "Name": "Epistory - Typing Chronicles",
     "Status": "WIP",
     "Upgrades": "`Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0`",
@@ -1042,12 +1030,6 @@
     "Status": "Done",
     "Upgrades": null,
     "Comments": null
-  },
-  {
-    "Name": "Garry's Mod",
-    "Status": "Done",
-    "Upgrades": null,
-    "Comments": "Both 32 AND 64-bit. Installation instructions Install x32 version as usual, install Reshade for gmod.exe to get 32-bit Reshade and move it to /bin. Then install Reshade again for gmod_win64.exe to get 64-bit Reshade and move it to /bin/win64 folder. Install DXVK proxy in both folders (dxgi_dxvk.dll and reshade.ini). A single dxvk.conf should be in the root folder, x32 bit installation in /bin and x64 installation in /bin/win64"
   },
   {
     "Name": "Gatekeeper",
