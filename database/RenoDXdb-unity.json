@@ -384,6 +384,12 @@
     "Comments": "Tonemap/color grading not in real time (Load Save Point to refresh)"
   },
   {
+    "Name": "Black Mesa",
+    "Status": "WIP",
+    "Upgrades": null,
+    "Comments": "32-bit"
+  },
+  {
     "Name": "Blackwind",
     "Status": "WIP",
     "Upgrades": null,
@@ -570,6 +576,12 @@
     "Comments": null
   },
   {
+    "Name": "Counter Strike: Source",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "64-bit. Some of the maps are LDR, so you won't see many highlights on them"
+  },
+  {
     "Name": "Crab Game",
     "Status": "Done",
     "Upgrades": null,
@@ -610,6 +622,12 @@
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
     "Comments": null
+  },
+  {
+    "Name": "Day of Defeat: Source",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "64-bit"
   },
   {
     "Name": "DEAD LETTER DEPT.",
@@ -852,6 +870,18 @@
     "Comments": null
   },
   {
+    "Name": "Entropy: Zero",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "32-bit"
+  },
+  {
+    "Name": "Entropy: Zero 2",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "32-bit"
+  },
+  {
     "Name": "Epistory - Typing Chronicles",
     "Status": "WIP",
     "Upgrades": "`Use_Swapchain_Proxy` `1` `Swapchain_Encoding` `0`",
@@ -1014,6 +1044,12 @@
     "Comments": null
   },
   {
+    "Name": "Garry's Mod",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "Both 32 AND 64-bit. Installation instructions Install x32 version as usual, install Reshade for gmod.exe to get 32-bit Reshade and move it to /bin. Then install Reshade again for gmod_win64.exe to get 64-bit Reshade and move it to /bin/win64 folder. Install DXVK proxy in both folders (dxgi_dxvk.dll and reshade.ini). A single dxvk.conf should be in the root folder, x32 bit installation in /bin and x64 installation in /bin/win64"
+  },
+  {
     "Name": "Gatekeeper",
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
@@ -1084,6 +1120,12 @@
     "Status": "WIP",
     "Upgrades": null,
     "Comments": null
+  },
+  {
+    "Name": "Half Life 2",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "32-bit"
   },
   {
     "Name": "Halve Demo",
@@ -1366,6 +1408,18 @@
     "Status": "Done",
     "Upgrades": null,
     "Comments": null
+  },
+  {
+    "Name": "Left 4 Dead",
+    "Status": "WIP",
+    "Upgrades": null,
+    "Comments": "32-bit. Visual glitches, LDR maps"
+  },
+  {
+    "Name": "Left 4 Dead 2",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "32-bit"
   },
   {
     "Name": "LEGO® Bricktales",
@@ -1662,6 +1716,12 @@
     "Comments": null
   },
   {
+    "Name": "No More Room in Hell",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "64-bit"
+  },
+  {
     "Name": "No Rest For The Wicked",
     "Status": "Done",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Ratio`",
@@ -1900,6 +1960,18 @@
     "Status": "Done",
     "Upgrades": null,
     "Comments": null
+  },
+  {
+    "Name": "Portal",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "32-bit"
+  },
+  {
+    "Name": "Portal 2",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "32-bit"
   },
   {
     "Name": "POSTAL: Brain Damaged",
