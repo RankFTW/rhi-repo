@@ -2123,6 +2123,17 @@
     "notes": null
   },
   {
+    "name": "Need for Speed™ Most Wanted (2005)",
+    "status": "Done",
+    "author": "CommandGenius",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://github.com/CommandGenius/renodx/releases/download/nightly-20261008/renodx-nfsmw05.addon32",
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": "DXVK Reshade proxy is recommended! Please see instructions down in Source 1 section."
+  },
+  {
     "name": "Need for Speed™ Most Wanted (2012)",
     "status": "Done",
     "author": "XgarhontX",
@@ -3155,6 +3166,17 @@
     "discordUrl": null,
     "discussionUrl": null,
     "notes": null
+  },
+  {
+    "name": "The Saboteur",
+    "status": "Done",
+    "author": "CommandGenius",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://github.com/CommandGenius/renodx/releases/download/snapshot/renodx-saboteur.addon32",
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": "DXVK Reshade proxy is recommended! Please see instructions down in Source 1 section."
   },
   {
     "name": "The Surge",
