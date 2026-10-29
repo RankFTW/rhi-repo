@@ -651,6 +651,13 @@
     "Comments": "Needs Testing"
   },
   {
+    "Name": "The Forgotten City",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size`",
+    "Comments": null
+  },
+  {
     "Name": "The Talos Principle 2",
     "Status": "Done",
     "Method": "native",
@@ -662,6 +669,13 @@
     "Status": "Done",
     "Method": "native",
     "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "THRESHOLD",
+    "Status": "Done",
+    "Method": "upgrade",
+    "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size`",
     "Comments": null
   },
   {
