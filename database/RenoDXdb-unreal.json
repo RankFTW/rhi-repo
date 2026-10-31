@@ -470,10 +470,10 @@
   },
   {
     "Name": "Phantom Blade Zero",
-    "Status": "WIP",
+    "Status": "Done",
     "Method": "native",
     "Upgrades": null,
-    "Comments": null
+    "Comments": "U+ is required for sliders to work in real time"
   },
   {
     "Name": "Pih",
