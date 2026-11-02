@@ -2486,6 +2486,17 @@
     "notes": null
   },
   {
+    "name": "Resident Evil 6",
+    "status": "Done",
+    "author": "Lego Liam Neeson",
+    "snapshotUrl": null,
+    "snapshotUrl32": "https://github.com/legoliamneeson/renodx/releases/download/nightly-20260503/renodx-residentevil6.addon32",
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Resident Evil 7",
     "status": "Done",
     "author": "Musa",
