@@ -308,6 +308,13 @@
     "Comments": null
   },
   {
+    "Name": "Hogwarts Legacy",
+    "Status": "Done",
+    "Method": "native",
+    "Upgrades": null,
+    "Comments": "Native HDR must be on."
+  },
+  {
     "Name": "Hydroneer",
     "Status": "Done",
     "Method": "upgrade",
