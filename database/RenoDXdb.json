@@ -924,6 +924,17 @@
     "notes": null
   },
   {
+    "name": "Dead Space",
+    "status": "Done",
+    "author": "Musa",
+    "snapshotUrl": "https://github.com/mqhaji/renodx/releases/download/snapshot/renodx-deadspace.addon64",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Death Stranding 2",
     "status": "Done",
     "author": "Musa",
