@@ -1265,6 +1265,17 @@
     "notes": null
   },
   {
+    "name": "Farming Simulator 25",
+    "status": "Done",
+    "author": "ToadintheHole",
+    "snapshotUrl": null,
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/farmingsimulator25/mods/230",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Fate/Samurai Remnant",
     "status": "WIP",
     "author": "Akuru",
@@ -2042,6 +2053,17 @@
     "snapshotUrl32": null,
     "nexusUrl": "https://gamebanana.com/mods/692031",
     "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
+    "name": "Microsoft Flight Simulator 2024",
+    "status": "Done",
+    "author": "ToadintheHole",
+    "snapshotUrl": null,
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": "https://discord.com/invite/renodx",
     "discussionUrl": null,
     "notes": null
   },
