@@ -574,6 +574,13 @@
     "Comments": null
   },
   {
+    "Name": "STAR WARS Jedi: Fallen Order™",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": "⛔"
+  },
+  {
     "Name": "STAR WARS Zero Company™",
     "Status": "Done",
     "Method": "native",
@@ -644,6 +651,13 @@
     "Comments": null
   },
   {
+    "Name": "The Chant",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
+    "Comments": "Use DX11"
+  },
+  {
     "Name": "The Enjenir",
     "Status": "Done",
     "Method": "ini",
@@ -669,6 +683,13 @@
     "Status": "Done",
     "Method": "upgrade",
     "Upgrades": "`B8G8R8A8_TYPELESS` `Output Size`",
+    "Comments": null
+  },
+  {
+    "Name": "The Midnight Walk",
+    "Status": "Done",
+    "Method": "ini",
+    "Upgrades": null,
     "Comments": null
   },
   {
