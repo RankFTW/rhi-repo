@@ -390,6 +390,12 @@
     "Comments": "32-bit"
   },
   {
+    "Name": "Blasphemous",
+    "Status": "WIP",
+    "Upgrades": "`Swapchain_Encoding` `1` `Use_Swapchain_Proxy` `1`",
+    "Comments": null
+  },
+  {
     "Name": "BlazBlue Entropy Effect",
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
@@ -399,6 +405,12 @@
     "Name": "Bloody Hell",
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Tonemap_Offset` `1` `Scaling_Offset` `1`",
+    "Comments": null
+  },
+  {
+    "Name": "Bloons TD 6",
+    "Status": "Done",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size` `Swapchain_Encoding` `1`",
     "Comments": null
   },
   {
@@ -604,6 +616,12 @@
     "Status": "Done",
     "Upgrades": null,
     "Comments": null
+  },
+  {
+    "Name": "Database Detective: Minor Crimes",
+    "Status": "WIP",
+    "Upgrades": null,
+    "Comments": "Works out of the box, but very brightness limited (peaks around 220 nits)"
   },
   {
     "Name": "DAVE THE DIVER",
@@ -1068,6 +1086,12 @@
     "Comments": null
   },
   {
+    "Name": "Green Hell",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "Avoid Exclusive Fullscreen"
+  },
+  {
     "Name": "GRIME",
     "Status": "WIP",
     "Upgrades": null,
@@ -1212,6 +1236,12 @@
     "Comments": null
   },
   {
+    "Name": "I Have No Mouth, and I Must Scream",
+    "Status": "WIP",
+    "Upgrades": "`Swapchain_Encoding` `1`",
+    "Comments": "Pre-rendered graphics limit HDR"
+  },
+  {
     "Name": "I Know a Guy: Shady Life Simulator",
     "Status": "WIP",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
@@ -1246,6 +1276,12 @@
     "Status": "Done",
     "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size` `Swapchain_Encoding` `1`",
     "Comments": null
+  },
+  {
+    "Name": "INSIDE",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "Use the Luma Framework mod below"
   },
   {
     "Name": "Iron Lung",
@@ -1620,6 +1656,12 @@
     "Comments": null
   },
   {
+    "Name": "My Summer Car",
+    "Status": "Done",
+    "Upgrades": "`Swapchain_Encoding` `1` `Use_Swapchain_Proxy` `1`",
+    "Comments": "Disable in-game HDR"
+  },
+  {
     "Name": "Mycopunk",
     "Status": "Done",
     "Upgrades": null,
@@ -1677,6 +1719,12 @@
     "Name": "NODE: The Last Favor of the Antarii",
     "Status": "Done",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size`",
+    "Comments": null
+  },
+  {
+    "Name": "Nomad Drive",
+    "Status": "Done",
+    "Upgrades": null,
     "Comments": null
   },
   {
@@ -1800,6 +1848,12 @@
     "Comments": null
   },
   {
+    "Name": "Papers, Please",
+    "Status": "Done",
+    "Upgrades": "`Swapchain_Encoding` `1`",
+    "Comments": "Does not really work, output is clamped"
+  },
+  {
     "Name": "Parkitect",
     "Status": "Done",
     "Upgrades": null,
@@ -1854,6 +1908,12 @@
     "Comments": null
   },
   {
+    "Name": "Phoenix Wright: Ace Attorney Trilogy",
+    "Status": "WIP",
+    "Upgrades": "`Swapchain_Encoding` `1` `Use_Swapchain_Proxy` `1`",
+    "Comments": "Artwork is what it is"
+  },
+  {
     "Name": "Pillars of Eternity",
     "Status": "WIP",
     "Upgrades": "`Use_Swapchain_Proxy` `1` `Scaling_Offset` `1` `Tonemap_Offset` `1`",
@@ -1896,6 +1956,12 @@
     "Comments": null
   },
   {
+    "Name": "Pony Island",
+    "Status": "WIP",
+    "Upgrades": "`Swapchain_Encoding` `1` `Use_Swapchain_Proxy` `1`",
+    "Comments": "Not very impactful HDR"
+  },
+  {
     "Name": "POOLS",
     "Status": "Done",
     "Upgrades": null,
@@ -1906,6 +1972,12 @@
     "Status": "WIP",
     "Upgrades": null,
     "Comments": null
+  },
+  {
+    "Name": "Potion Craft: Alchemist Simulator",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "Custom rendering, broken with the mod"
   },
   {
     "Name": "PowerWash Simulator",
@@ -1950,6 +2022,12 @@
     "Comments": null
   },
   {
+    "Name": "Rain World",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "Custom rendering, broken with the mod"
+  },
+  {
     "Name": "ReCore: Definitive Edition",
     "Status": "WIP",
     "Upgrades": null,
@@ -1990,6 +2068,12 @@
     "Status": "Done",
     "Upgrades": null,
     "Comments": null
+  },
+  {
+    "Name": "Return of the Obra Dinn",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": "Does not work"
   },
   {
     "Name": "REVEIL",
@@ -2103,6 +2187,12 @@
     "Name": "Shape of Dreams",
     "Status": "Done",
     "Upgrades": "`Upgrade_R11G11B10_FLOAT` `Output Size` `Scaling_Offset` `1` `Tonemap_Offset` `1`",
+    "Comments": null
+  },
+  {
+    "Name": "ShellShock Live",
+    "Status": "Done",
+    "Upgrades": null,
     "Comments": null
   },
   {
@@ -2388,6 +2478,12 @@
     "Comments": null
   },
   {
+    "Name": "Thalassomania",
+    "Status": "Done",
+    "Upgrades": "`Upgrade_R8G8B8A8_TYPELESS` `Any Size` `Swapchain_Encoding` `1`",
+    "Comments": null
+  },
+  {
     "Name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
     "Status": "WIP",
     "Upgrades": null,
@@ -2472,6 +2568,12 @@
     "Comments": null
   },
   {
+    "Name": "The Room",
+    "Status": "WIP",
+    "Upgrades": "`Swapchain_Encoding` `1`",
+    "Comments": "Lacks testing"
+  },
+  {
     "Name": "The Room 4: Old Sins",
     "Status": "Done",
     "Upgrades": null,
@@ -2518,6 +2620,12 @@
     "Status": "WIP",
     "Upgrades": "`Use_Swapchain_Proxy` `1`",
     "Comments": "Not very bright"
+  },
+  {
+    "Name": "Thief Simulator",
+    "Status": "Done",
+    "Upgrades": null,
+    "Comments": null
   },
   {
     "Name": "Timelie",
@@ -2616,6 +2724,12 @@
     "Comments": null
   },
   {
+    "Name": "Ultimate Chicken Horse",
+    "Status": "WIP",
+    "Upgrades": "`Swapchain_Encoding` `1`",
+    "Comments": "Not very impactful HDR"
+  },
+  {
     "Name": "ULTRAKILL",
     "Status": "Done",
     "Upgrades": "`Swapchain_Encoding` `2`",
@@ -2640,6 +2754,12 @@
     "Comments": null
   },
   {
+    "Name": "Untitled Goose Game",
+    "Status": "WIP",
+    "Upgrades": "`Use_Swapchain_Proxy` `1`",
+    "Comments": "Not very impactful HDR"
+  },
+  {
     "Name": "V Rising",
     "Status": "Done",
     "Upgrades": null,
@@ -2650,6 +2770,12 @@
     "Status": "WIP",
     "Upgrades": "`Use_Swapchain_Proxy` `1`",
     "Comments": null
+  },
+  {
+    "Name": "Vampire Survivors",
+    "Status": "WIP",
+    "Upgrades": "`Swapchain_Encoding` `1`",
+    "Comments": "Partially works, sprites limit HDR"
   },
   {
     "Name": "Viewfinder",
@@ -2738,6 +2864,12 @@
   {
     "Name": "Whisper of the House",
     "Status": "WIP",
+    "Upgrades": null,
+    "Comments": null
+  },
+  {
+    "Name": "White Knuckle",
+    "Status": "Done",
     "Upgrades": null,
     "Comments": null
   },
