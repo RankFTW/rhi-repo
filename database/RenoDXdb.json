@@ -528,6 +528,17 @@
     "notes": null
   },
   {
+    "name": "Batman: Arkham City GOTY",
+    "status": "Done",
+    "author": "boostedwarr",
+    "snapshotUrl": "https://github.com/ldavid1994/renodx/releases/download/batmanac-snapshot/renodx-batmanac.zip",
+    "snapshotUrl32": null,
+    "nexusUrl": null,
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Batman: Arkham Knight",
     "status": "Done",
     "author": "ShortFuse",
