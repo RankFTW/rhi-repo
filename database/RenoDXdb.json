@@ -3388,28 +3388,6 @@
     "notes": null
   },
   {
-    "name": "Total War: Warhammer 3",
-    "status": "Done",
-    "author": "Pmnox",
-    "snapshotUrl": "https://github.com/pmnoxx/renodx/releases/download/snapshot/renodx-_univ.addon64",
-    "snapshotUrl32": null,
-    "nexusUrl": null,
-    "discordUrl": null,
-    "discussionUrl": null,
-    "notes": null
-  },
-  {
-    "name": "Total War: WARHAMMER III",
-    "status": "Done",
-    "author": "Pmnox",
-    "snapshotUrl": "https://github.com/pmnoxx/renodx/releases/download/snapshot/renodx-_univ.addon64",
-    "snapshotUrl32": null,
-    "nexusUrl": null,
-    "discordUrl": null,
-    "discussionUrl": null,
-    "notes": null
-  },
-  {
     "name": "Trackmania",
     "status": "WIP",
     "author": "OopyDoopy (Jon)",
