@@ -21,6 +21,13 @@
     "Comments": null
   },
   {
+    "Name": "ABZÛ",
+    "Status": "Done",
+    "Method": null,
+    "Upgrades": null,
+    "Comments": "SDR to HDR \n B8G8R8A8_TYPELESS Output Size for 100% render resolution or Output Ratio for other percentages."
+  },
+  {
     "Name": "Assetto Corsa Competizione",
     "Status": "Done",
     "Method": "native",
