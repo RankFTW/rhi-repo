@@ -1947,6 +1947,17 @@
     "notes": null
   },
   {
+    "name": "Marvel's Guardians Of The Galaxy",
+    "status": "Done",
+    "author": "Ostad",
+    "snapshotUrl": null,
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/marvelsguardiansofthegalaxy/mods/15",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
+  },
+  {
     "name": "Marvel's Spider-Man 2",
     "status": "Done",
     "author": "Musa",
@@ -2814,6 +2825,17 @@
     "discordUrl": null,
     "discussionUrl": null,
     "notes": "Motion blur needs to be disabled. Currently doesn't work with RTX 50 GPUs."
+  },
+  {
+    "name": "SONIC X SHADOW GENERATIONS",
+    "status": "Done",
+    "author": "Ostad",
+    "snapshotUrl": null,
+    "snapshotUrl32": null,
+    "nexusUrl": "https://www.nexusmods.com/sonicxshadowgenerations/mods/25",
+    "discordUrl": null,
+    "discussionUrl": null,
+    "notes": null
   },
   {
     "name": "Sons of The Forest",
