@@ -55,17 +55,6 @@
     "notes": null
   },
   {
-    "name": "Against The Storm",
-    "status": "WIP",
-    "author": "Pmnox",
-    "snapshotUrl": "https://github.com/pmnoxx/renodx/releases/download/snapshot/renodx-_univ.addon64",
-    "snapshotUrl32": null,
-    "nexusUrl": null,
-    "discordUrl": null,
-    "discussionUrl": null,
-    "notes": null
-  },
-  {
     "name": "AI: The Somnium Files",
     "status": "Done",
     "author": "Akuru",
@@ -880,17 +869,6 @@
     "notes": null
   },
   {
-    "name": "Darkest Dungeon 2",
-    "status": "WIP",
-    "author": "Pmnox",
-    "snapshotUrl": "https://github.com/pmnoxx/renodx/releases/download/snapshot/renodx-_univ.addon64",
-    "snapshotUrl32": null,
-    "nexusUrl": null,
-    "discordUrl": null,
-    "discussionUrl": null,
-    "notes": null
-  },
-  {
     "name": "Darksiders Warmastered Edition",
     "status": "Done",
     "author": "OopyDoopy (Jon)",
@@ -1617,28 +1595,6 @@
     "notes": null
   },
   {
-    "name": "Hardspace: Shipbreaker",
-    "status": "WIP",
-    "author": "Pmnox",
-    "snapshotUrl": "https://github.com/pmnoxx/renodx/releases/download/snapshot/renodx-_univ.addon64",
-    "snapshotUrl32": null,
-    "nexusUrl": null,
-    "discordUrl": null,
-    "discussionUrl": null,
-    "notes": null
-  },
-  {
-    "name": "Heaven Burns Red",
-    "status": "Done",
-    "author": "Pmnox",
-    "snapshotUrl": "https://pmnoxx.github.io/renodx/renodx-_hbr.addon64",
-    "snapshotUrl32": null,
-    "nexusUrl": null,
-    "discordUrl": null,
-    "discussionUrl": null,
-    "notes": null
-  },
-  {
     "name": "Helldivers 2",
     "status": "Done",
     "author": "OopyDoopy (Jon)",
@@ -1738,17 +1694,6 @@
     "notes": null
   },
   {
-    "name": "Ixion",
-    "status": "WIP",
-    "author": "Pmnox",
-    "snapshotUrl": "https://github.com/pmnoxx/renodx/releases/download/snapshot/renodx-_univ.addon64",
-    "snapshotUrl32": null,
-    "nexusUrl": null,
-    "discordUrl": null,
-    "discussionUrl": null,
-    "notes": null
-  },
-  {
     "name": "James Cameron's Avatar: The Game",
     "status": "Done",
     "author": "Voosh",
@@ -1786,17 +1731,6 @@
     "status": "Done",
     "author": "Ritsu",
     "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-karmathedarkworld.addon64",
-    "snapshotUrl32": null,
-    "nexusUrl": null,
-    "discordUrl": null,
-    "discussionUrl": null,
-    "notes": null
-  },
-  {
-    "name": "Kerbal Space Program",
-    "status": "Done",
-    "author": "Pmnox",
-    "snapshotUrl": "https://github.com/pmnoxx/renodx/releases/download/snapshot/renodx-_ksp.addon64",
     "snapshotUrl32": null,
     "nexusUrl": null,
     "discordUrl": null,
@@ -2424,17 +2358,6 @@
     "status": "WIP",
     "author": "Ersh & ShortFuse",
     "snapshotUrl": "https://clshortfuse.github.io/renodx/renodx-p4g.addon64",
-    "snapshotUrl32": null,
-    "nexusUrl": null,
-    "discordUrl": null,
-    "discussionUrl": null,
-    "notes": null
-  },
-  {
-    "name": "Persona 5 : Strikers",
-    "status": "WIP",
-    "author": "Pmnox",
-    "snapshotUrl": "https://github.com/pmnoxx/renodx/releases/download/snapshot/renodx-_p5s.addon64",
     "snapshotUrl32": null,
     "nexusUrl": null,
     "discordUrl": null,
