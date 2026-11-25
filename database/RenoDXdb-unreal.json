@@ -366,7 +366,7 @@
   {
     "Name": "Lies of P",
     "Status": "Done",
-    "Method": "native",
+    "Method": "ini",
     "Upgrades": null,
     "Comments": null
   },
